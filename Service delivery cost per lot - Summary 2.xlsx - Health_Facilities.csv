@@ -1,0 +1,1159 @@
+Country,State,County,Payam,HF,DHIS2 ID,Health Facility,HF Level,Colours,Block,LOT
+South Sudan,Abyei Administrative Area,Abyei County,Abyei Payam,Abyei Civil HOSPITAL,dcxxj6WsrYh,Abyei Civil HOSPITAL,  State Hospital,Orange,#REF!,#REF!
+South Sudan,Abyei Administrative Area,Abyei County,Alal Payam,Agany Tok PHCU,IN0Vq0USxQp,Agany Tok PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Abyei Administrative Area,Abyei County,Mijak Payam,Ganga PHCU,u9MPZmqwBCG,Ganga PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Otogo Payam,Abegi PHCU,YUnKeViFnVc,Abegi PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Liwolo Payam,Ajio PHCU,tfTLCc5vfHm,Ajio PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Morobo County,Wudabi Payam,Aloto Rural PHCU,VDRLiHEKriS,Aloto Rural PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Kangapo Two Payam,Bori PHCC,mvgmcnhNoCH,Bori PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Liwolo Payam,Boro Boro PHCU,KbdmOwtsXxF,Boro Boro PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Bungu Payam,Bungu PHCU,pTZPmR7bl64,Bungu PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Tali Payam,Dari PHCU,CjCdWJWfBQE,Dari PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Lainya County,Mukaya Payam,Dimo One PHCU,xkMhGVjL4hv,Dimo One PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Juba Town Payam,El-Sabah Children HOSPITAL,DHKCr3lbyu7,El-Sabah Children HOSPITAL,   County Hospital,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Yei Town Payam,EPC PHCC,EqHIbzzyxvR,EPC PHCC,   PHCC,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Gameiza Payam,Gemeiza PHCU,gE4lVt1HOmR,Gemeiza PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Morobo County,Wudabi Payam,Geri PHCU,WTxzxMQyBja,Geri PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Rokon Payam,Gimora PHCU,QGk0IUc3kKN,Gimora PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Yei Town Payam,Gimunu PHCU,FJPNdoayUVu,Gimunu PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Otogo Payam,Goja PHCU,vhwg3JbYcgj,Goja PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Tore Payam,Goli PHCU,leuiRYETEBt,Goli PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Gondokoro Payam,Gondokoro PHCU,UF1nFusaKLc,Gondokoro PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Munuki Payam,Gudele Block 4 PHCU,CC1Kuf3z0AL,Gudele Block 4 PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Rejaf Payam,Gumbo PHCC,IUVO2rS8Fx3,Gumbo PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Northern Bari Payam,Gurei PHCC,mvKR8SXA6mN,Gurei PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Tijor Payam,Gurulotogu PHCU,BKMIoDLCZvU,Gurulotogu PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Munuki Payam,Hai Jebel PHCU,JV2amC6D9tn,Hai Jebel PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Lirya Payam,Ilyangiri PHCU,RL57oZfkGbv,Ilyangiri PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Kangapo Two Payam,Jalimo PHCC,KT9nfdklJ6p,Jalimo PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Lainya County,Kupera Payam,Jamara PHCC,MlWcdwDncIF,Jamara PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Mugwo Payam,Jombu PHCU,kD3UrOiQiWj,Jombu PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Nyepo Payam,Jondale PHCU,pi0RPfJjP7E,Jondale PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Munuki Payam,Jondoki PHCC,IhoOoKKhOqQ,Jondoki PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Rijong Payam,Jonkok PHCU,L1LIaYQH6at,Jonkok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Juba Town Payam,Juba Teaching HOSPITAL,OV9zi20DDXP,Juba Teaching HOSPITAL, Teaching Hospital,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Otogo Payam,Kagelu PHCU,LsyzLnkowAn,Kagelu PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Ganji Payam,Kagwada PHCU,OXFSFKIJldQ,Kagwada PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Kangapo Two Payam,Kajo Keji Civil Hospital,IzwzREKKULA,Kajo Keji Civil Hospital,   County Hospital,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Kangapo One Payam,Kangai PHCC,lHz71s3NEWg,Kangai PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Nyepo Payam,Kansuk PHCC,VAgxQpwNqVN,Kansuk PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Kangapo Two Payam,Kasurak PHCU,G6Vup7qUtdV,Kasurak PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Kator Payam,Kator PHCC,tlZC0riVvzo,Kator PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Morobo County,Kimba Payam,Kaya PHCC,DXQKspr43kS,Kaya PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Lainya County,Kenyi Payam,Kenyi PHCU,wwREoqUiHsj,Kenyi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Rejaf Payam,Khor Romula/Jenduru PHCU,g6TAjDzItzr,Khor Romula/Jenduru PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Munuki Payam,Kimu PHCC,uTuk3c6hBti,Kimu PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Kangapo Two Payam,Kinyiba PHCC,J3Zy0CYgpot,Kinyiba PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Kangapo One Payam,Kiri PHCU,BdmSplm1aer,Kiri PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Tali Payam,Kirot nyumbo PHCU,AY7y5WxMBIj,Kirot nyumbo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Tali Payam,Kiu/Kiyu PHCU,LxzBbFan1PY,Kiu/Kiyu PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Rijong Payam,Kowori PHCU,XQUOo7Oe3Xr,Kowori PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Lokiliri Payam,Kubi PHCU,bBF6av2MDIn,Kubi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Dolo Payam,Kuda PHCC,JZ7b9o5QLlr,Kuda PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Nyori Payam,Kuda PHCU,uO6YvF0bmBn,Kuda PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Ganji Payam,Kuli Papa PHCU,UUs33F3A0Hs,Kuli Papa PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Reggo Payam,Kutuk na woko PHCU,kqVs1gGIysi,Kutuk na woko PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Northern Bari Payam,Kworijik PHCU,mkKBH7g4Hks,Kworijik PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Reggo Payam,Kwornyang PHCU,CG6wvlZeZbf,Kwornyang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Lainya County,Lainya Payam,Lainya PHCC,hNigjIwEfra,Lainya PHCC,   County Hospital,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Lasu Payam,Lasu PHCC,dNw7AXz7kCl,Lasu PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Kangapo One Payam,Leikor PHCU,ra7RjAyUjO8,Leikor PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Reggo Payam,Lengi PHCU,EqKuYf8K5fC,Lengi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Magwi Payam,Abara PHCC,ItenF1aBAZP,Abara PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Kurumi Payam,Adeba PHCU,oBH15QR56LK,Adeba PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Magwi Payam,Agoro PHCU,xY3PgQq6UNX,Agoro PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Lohutok Payam,AIC Lohutok PHCC,SrKWFQxqCh8,AIC Lohutok PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Magwi Payam,Amee PHCU,OzCFoYB6ws6,Amee PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Pageri Payam,Arapi PHCU,c4yUMIp2slF,Arapi PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Magwi Payam,Ayii PHCU,wweOsO4ZbAw,Ayii PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Mugali Payam,Bilinya PHCU,DPyDuoueM5i,Bilinya PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Longiro Payam,Bule PHCU,nqCNcInxecf,Bule PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Bur Payam,Bur Mutaram PHCU,ELVBQ0n5AA1,Bur Mutaram PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Lomohidang North Payam,Chahare PHCU,Mb8oG5JCCCf,Chahare PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Napak Payam,Chawa PHCU,EYpNycp96cd,Chawa PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta North County,Paringa Payam,Choroi PHCU,aEdwAOEOUWW,Choroi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Lomohidang South Payam,Chorokol PHCU,tujppw4PgVy,Chorokol PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Komori Payam,Chukudum  HOSPITAL,i3zup3tchmp,Chukudum  HOSPITAL,   County Hospital,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta North County,Chumakori Payam,Chumakori PHCU,toW9AZ8yj70,Chumakori PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Loriyok Payam,FRAK-SIKA PHCU,bR5RhAYLIH5,FRAK-SIKA PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Mugali Payam,Ganzi PHCU,jeolYv3cMZ4,Ganzi PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Hatire Payam,Gilo PHCU,g9JEnf69OxJ,Gilo PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta East County,Kauto Payam,Good Shephard PHCC,D6Uwq2zbQrs,Good Shephard PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Longiro Payam,Haba PHCU,UwK3acKsTh2,Haba PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Ngauro Payam,Haliba PHCU,qQojJT95Iu1,Haliba PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Hatire Payam,Hatire PHCC,BaOTshCMzLO,Hatire PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Mathiang-kok Payam,Amer PHCU,a15QS0YoKwq,Amer PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Madhol Payam,Ameth Akok PHCU,ZjsrTQpws7O,Ameth Akok PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Malual Bai Payam,Ameth Akok PHCU,pCZOwReoqUN,Ameth Akok PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Cueibet County,Abiriu Payam,Ameth Duol PHCU,HbUyACKhw9F,Ameth Duol PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Malual Bai Payam,Amethgolduang PHCU,JqDVHKZwSci,Amethgolduang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Duk County,Dongchak Payam,Amiel PHCU,AR8cfTXbzaO,Amiel PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek North County,Mayen Payam,Amok PHCU,n6aSH7gtgoh,Amok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek Centre County,Amongpiny Payam,Amongpiny PHCC,eGrd3opekNj,Amongpiny PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Mariem West Payam,Amothic PHCU,EhN4qgMrXM7,Amothic PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Warrap State,Tonj East County,Ananatak Payam,Ananatak PHCU,E3FdtjrTim8,Ananatak PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Andari Payam,Andari PHCU,uCzbAidUUpq,Andari PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial East County,Pathuon East Payam,Angernger PHCU,LBPuilcr51E,Angernger PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Mariem East Payam,Angol PHCU,FCrXDcWMoBU,Angol PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Gomjuer Center Payam,Angol PHCU,wnXggFeubNS,Angol PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Mariem East Payam,Angon Lek PHCU,CtLrMbNUUk0,Angon Lek PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Riau Payam,Anguoth PHCU,BKdCNaY7m7j,Anguoth PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Yirol West County,Anuol Payam,Anuol PHCC,kvQGL82nqaY,Anuol PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Bor South County,Anyidi Payam,Anyidi PHCC,z2eqxz7PLcm,Anyidi PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Turalei Payam,Anyiel Kuac PHCC,LHFjS8N3ygJ,Anyiel Kuac PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Mariem East Payam,Anyuopjang PHCU,PYXfUCdlP1D,Anyuopjang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj North County,Awuul Payam,Aporlang PHCU,rlquGk9djSB,Aporlang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Hiyala Payam,Hidonge Ifura PHCU,hMV9typZdGu,Hidonge Ifura PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Ariath Payam,Arieth PHCU,DTbJ6uxw5EZ,Arieth PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ibba County,Ibba Centre Payam,Army PHCU,BKTSadwVguH,Army PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil Centre County,Aroyo Payam,Aroyo DTC PHCC,t3h4yQ5Jgzr,Aroyo DTC PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Lokiliri Payam,Aru Junction PHCU,YIMRxUcJyyL,Aru Junction PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Yirol West County,Abang Payam,Aruau PHCU,xWAo3DDG6xY,Aruau PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Malakal County,Southern Malakal Payam,Assossa PHCU,waIwEEHQd8M,Assossa PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Losite Payam,Ateda PHCU,OwkMc5kQxN0,Ateda PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Manyo County,Athidwoi Payam,Athidwoi PHCU,DuQY34mxrC0,Athidwoi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Atiaba Payam,Atiaba PHCU,FwXpi6BIcjz,Atiaba PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Udici Payam,Atido PHCU,HrUpdRjeAiD,Atido PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Tali Payam,Atiit PHCU,s7H0rE02EMi,Atiit PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Malual Bai Payam,Atuet PHCU,ReoG2ZofOso,Atuet PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Alek South Payam,Atuk Kuel PHCU,Qt4QMurxKzA,Atuk Kuel PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Aduel Payam,Awac PHCU,WeE38ssTy7K,Awac PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil Centre County,Awada Payam,Awada PHCC,RWACVPLCmWz,Awada PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Abyei Administrative Area,Abyei County,Rumamer Payam,Awal PHCU,v7E2MTfCew7,Awal PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Abyei Administrative Area,Abyei County,Alal Payam,Awalnhom PHCU,HyCeCABZGq0,Awalnhom PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Ruweng Administrative Area,Abiemnhom County,Abiemnom Payam,Awarpiny PHCU,yGT064K7KDb,Awarpiny PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil Centre County,Aweil Town Payam,Aweil Civil HOSPITAL,Ofi0Czhbc2D,Aweil Civil HOSPITAL,  State Hospital,Orange,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Aweeng Payam,Aweng PHCC,eUnWPSTJ6c3,Aweng PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Awerial County,Dor Payam,Awerial PHCU,oX5NCqRnce6,Awerial PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Manyo County,Kwoj Payam,Aweth PHCC,gAAFeXahUXI,Aweth PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj North County,Awuul Payam,Awul  PHCC,YMXMtIfnwpY,Awul  PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial East County,Nyang Payam,Awut-Wut PHCU,OGcXHoaC8LJ,Awut-Wut PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil South County,Ayai Payam,Ayai PHCU,IAa8lcg6RLK,Ayai PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek Centre County,Malek Payam,Ayai PHCU,n9Pbts3xRa5,Ayai PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Himodonge Payam,Hilieu PHCC,XAgzWsaetiB,Hilieu PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Kpaile Payam,Ayo PHCC,nqVcJTwOVzk,Ayo PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Jonglei State,Ayod County,Pajiek Payam,Ayod PHCC,m5y6WD8Tfbo,Ayod PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Kangi Payam,Ayom PHCU,A6r6ERX73Ey,Ayom PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Jonglei State,Duk County,Padiet Payam,Ayueldit PHCU,OoRdti95mUa,Ayueldit PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Baach Payam,Baach PHCU,xu4c2AH5M2c,Baach PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Sakure Payam,Baakpara PHCU,f2VW8axn39V,Baakpara PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Andari Payam,Bafuka PHCU,ETuFaKyE0Fs,Bafuka PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Bagari Payam,Bagari Jedid PHCU,mKatb7lGLX6,Bagari Jedid PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Bagidi Payam,Bagidi PHCU,X4zRNGDnnw0,Bagidi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Wulu County,Bargel Payam,Bahr Gel PHCU,cMp8TnoWmN8,Bahr Gel PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mvolo County,Bahr El Grindi Payam,Bahr Grindi PHCU,KMquzOsewfA,Bahr Grindi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Cueibet County,Malou Pec Payam,Bahrgel PHCU,ws9tZ5lR3lZ,Bahrgel PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Akoka County,Akudueng Payam,Bai-chan PHCU,XI2OFKPPcrl,Bai-chan PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Ezo Centre Payam,Baikpa PHCU,CEW91p8bua2,Baikpa PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Tambura Payam,Bakiringba PHCU,ZvY53rerVAi,Bakiringba PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Baach Payam,Bakou PHCU,atHio2fziI3,Bakou PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek Centre County,Mayom Payam,Bal-Wau PHCU,aTFgNTC8H3Z,Bal-Wau PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Baliet County,Nyongkuach Payam,Baliet PHCC,Kgw8QOZNTpO,Baliet PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Malakal County,Southern Malakal Payam,Bam PHCU,XXtSlGxZ64h,Bam PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ibba County,Nabanga Payam,Bamani PHCU,Ng7oY0JMyYV,Bamani PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Bariguna Payam,Bambaraze PHCU,L40EIDhNdKF,Bambaraze PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Rii - Yubu Payam,Bambu PHCU,iGTk9UF2dEM,Bambu PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Nagero County,Nagero Payam,Bandala PHCU,QRIyKvkhNK2,Bandala PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Bagidi Payam,Bandala PHCU (Ezo),trIzVrDTw32,Bandala PHCU (Ezo),   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Bariguna Payam,Banduguyo PHCU,p1uEYiw9oNb,Banduguyo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Andari Payam,Bangangai PHCU,TqPyprm5WDp,Bangangai PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Bangasu Payam,Bangasu PHCC,fStpD2P9h2W,Bangasu PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil Centre County,Bar Mayen Payam,Bar Mayen PHCC,oipRfLR61sJ,Bar Mayen PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Aduel Payam,Bar-Aliap PHCU,WCzxEAqyMzo,Bar-Aliap PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Rumbek Centre County,Mayom Payam,Bar-Chol PHCU,KGzIowWEIhd,Bar-Chol PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Andari Payam,Baragu PHCU,QjcNAnIwCT0,Baragu PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri West County,Kotobi Payam,Bari PHCU,zpVx8jLW5OY,Bari PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Bariguna Payam,Bariabande PHCU,CUHlDFAzpSk,Bariabande PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Nyirol County,Thol Payam,Bariak PHCU,zoRWCPvvAql,Bariak PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Bariguna Payam,Bariguna PHCU,SIM6UyPDaOC,Bariguna PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Kangi Payam,Bartio PHCU,R0i9rz7KSoq,Bartio PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Udici Payam,Barurud PHCU,QGhgMeHCum6,Barurud PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Udici Payam,Baryar PHCU,YbgURJxFscZ,Baryar PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Nagero County,Namutina Payam (Nagero),Bassan PHCU,FqmbUN7zWOj,Bassan PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Basukangbi Payam,Basukangbi PHCC,MRgmTnw8Uem,Basukangbi PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Wau South Payam,Bazia Jedid PHCC,T2LTbCrTWmb,Bazia Jedid PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Yambio Town Payam,Bazungua PHCC,aOgd73bOP6M,Bazungua PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Kediba Payam,Bekenye PHCU,LzADYG2d4sv,Bekenye PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Longochuk County,Pamach Payam,Belwang PHCU,myWKBemERCv,Belwang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Khor El Amer Payam,Benamayo PHCC,hBzx4H2ir2Z,Benamayo PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Unity State,Rubkona County,Bentiu PoC Payam,Bentiu Sector 5,TXfULZ38mQ9,Bentiu Sector 5,   PHCU,RED,#REF!,#REF!
+South Sudan,Unity State,Rubkona County,Bentiu Town Payam,Bentiu State HOSPITAL,Nefki6Dvi4V,Bentiu State HOSPITAL,  State Hospital,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Sakure Payam,Bereangburu PHCU,HddOoCAS036,Bereangburu PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Lainya County,Lainya Payam,Bereka PHCU,EFvt3VR7Pd5,Bereka PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Besselia Payam,Besellia PHCC,DmsTEpt7tni,Besellia PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Maridi Payam,Betha Saida ECS PHCC,ROXfyH8Js0V,Betha Saida ECS PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Yirol West County,Abang Payam,Betoi PHCU,NFOC4bU0Mhu,Betoi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Mayom County,Bieh Payam,Bieh PHCU,Zc2qOU9WYPZ,Bieh PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Akoka County,Akoka Payam,Bienythiang PHCU,WgIij85ZO9T,Bienythiang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Losite Payam,Biira PHCC,ppp5asdsqtC,Biira PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Hiyala Payam,Hiyala PHCC,sp3Sl7MVAFd,Hiyala PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Ikotos Payam,Huma PHCU,u3mXrhd2Y1W,Huma PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Lohutok Payam,Ibonni PHCU,nKg4bhRJsDQ,Ibonni PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Longiro Payam,Idali PHCU,bqzb4FGeoVN,Idali PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Ikotos Payam,Ikwoto PHCC,oB2R4HNEPXE,Ikwoto PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Hiyala Payam,Ilieu PHCU,icxITNm9CQu,Ilieu PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Arihilo Payam,Imedu PHCU,Ah7N6pGZmZW,Imedu PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Imehejek Payam,Imehejek PHCC,ccoacZ7JsEb,Imehejek PHCC,   County Hospital,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Hatire Payam,Imila PHCU,b7PJjOtc5TZ,Imila PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Imotong Payam,Imotong PHCC,IM399bqfx1t,Imotong PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Imurok Payam,Imurok PHCU,vLqRoVWutHH,Imurok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Nagishot Payam,Kadumakuc PHCU,wmGHRIGymBf,Kadumakuc PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta East County,Narus Payam,Kaludo PHCU,Q97k5pNA0NU,Kaludo PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta East County,Katodori Payam,Kalupe PHCU,xa0YBjwag2g,Kalupe PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Loudo Payam,Kapeta PHCU,BiM4c5SpOi6,Kapeta PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta South County,Kapoeta Town Payam,Kapoeta Civil Hospital,oV5sT7FVaVx,Kapoeta Civil Hospital,   County Hospital,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Ngauro Payam,Kathac PHCU,wywCpuGHuEt,Kathac PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Pageri Payam,Kerepi PHCU,MiQyHCK5dJm,Kerepi PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Imurok Payam,Khormush PHCU,ki91L2Z0kxE,Khormush PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta North County,Karukomuge Payam,Kibak PHCU,MzztF94mDIt,Kibak PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Ngauro Payam,Kibongorok PHCU,ku6p2NtYBVz,Kibongorok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Lobone Payam,Kicenga PHCC,x7BCshAZvzd,Kicenga PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Lotukei Payam,Kikilai PHCC,rzbxRwvKymW,Kikilai PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Kimotong Payam,Kimotong PHCC,Fl0ZidYFLEg,Kimotong PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Komori Payam,Komiri PHCC,crPcGgFFnVk,Komiri PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Kudo Payam,Kudo PHCC,BQLNrxHvmTI,Kudo PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Kurumi Payam,Kujikor PHCU,ZTzho4qOLOF,Kujikor PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta East County,Kauto Payam,Kuron PHCC,eTgFrzpPEyx,Kuron PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Arihilo Payam,Lacharok PHCU,WPYc8f7zTyq,Lacharok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Burgilo Payam,Lafon PHCC,sx9Lt0bSKqr,Lafon PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Lohutok Payam,Lalanga PHCU,yItOo3Uqz5h,Lalanga PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Magwi Payam,Lerwa PHCU,mNpen2c5c2L,Lerwa PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Pageri Payam,Loa Mission PHCC,NvvbQCVu97h,Loa Mission PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Lobone Payam,Lobone PHCC,Eah2o9L9xLF,Lobone PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Nimule Payam,Longu PHCU,C5HHEbRi6Kn,Longu PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Magwi Payam,Magwi PHCC,H5ymexi3gjf,Magwi PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Magwi Payam,Maji PHCU,KMiWgRB2gSI,Maji PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Pageri Payam,Moli Tokuro PHCC,Z7t9FDlwbUf,Moli Tokuro PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Mugali Payam,Mugali PHCC,KOz5zP6qkMf,Mugali PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Nimule Payam,Nimule CDOT PHCC,kXHxoSUMNSY,Nimule CDOT PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Nimule Payam,Nimule HOSPITAL,dTANcKLxstU,Nimule HOSPITAL,   County Hospital,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Magwi Payam,Obbo PHCC,cWRCswspNvk,Obbo PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Magwi Payam,Ofiriha Magwi PHCU,yHNAmy8jqIb,Ofiriha Magwi PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Nimule Payam,Olikwi PHCU,Bt4Egre4hVC,Olikwi PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Magwi Payam,Omeo PHCU,XjmFWVLMWVk,Omeo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Pageri Payam,Opari PHCC,zmEkkIh73Mg,Opari PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Pageri Payam,Orobe PHCU,bpmIPAdmgDM,Orobe PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Magwi Payam,OWINYKIBUL PHCU,in75g93kOun,OWINYKIBUL PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Pageri Payam,Pageri PHCC,i0oamO5BW0I,Pageri PHCC,   PHCC,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Pajok Payam,Pajok PHCC,lSg8THL26vT,Pajok PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Magwi Payam,Palotaka PHCU,ftFknBejxCt,Palotaka PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Lobone Payam,Palwar PHCU,N2O4a2MhUZA,Palwar PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Pageri Payam,PATIBI PHCU,TLvKcA9uuGR,PATIBI PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Magwi County,Pajok Payam,Pogee PHCU,qHccRhwWAhP,Pogee PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Akobo County,Bilkey Payam,Akobo HOSPITAL,Wx8ppq2BBa0,Akobo HOSPITAL,   County Hospital,Orange,#REF!,#REF!
+South Sudan,Jonglei State,Bor South County,Jalle Payam,Akuai Deng PHCU,mitMl2MBmQ5,Akuai Deng PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Bor South County,Bor Payam,Bor State Hospital,wesFmwsG9OY,Bor State Hospital,  State Hospital,Green,#REF!,#REF!
+South Sudan,Jonglei State,Akobo County,Buong Payam,Buong PHCU,SB6MfvqEWRB,Buong PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Jonglei State,Akobo County,Nyandit Payam,Burmath PHCU,BFUopdmj3O3,Burmath PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Pigi County,Mareng Payam,Canal PHCC,wLrEFZktgIJ,Canal PHCC,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Fangak County,Old Fangak Payam,Chotbora PHCU,lrKMUSG2Tic,Chotbora PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Jonglei State,Nyirol County,Chuil Payam,Chuil PHCC,StlCAld91dJ,Chuil PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Pigi County,Atar Payam,Diel PHCU,XcDJI5wUv8X,Diel PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Akobo County,Bilkey Payam,Dilule PHCU,ScinD5GRp61,Dilule PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Jonglei State,Akobo County,Diror Payam,Diror PHCU,usv3OSUl8K1,Diror PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Duk County,Padiet Payam,Dorok PHCU,NHdlDlwaGrW,Dorok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Duk County,Payuel Payam,Duk Lost Boy Hospital,wSm8D2FGwtr,Duk Lost Boy Hospital,   County Hospital,Green,#REF!,#REF!
+South Sudan,Jonglei State,Bor South County,Makuach Payam,Gakyuom PHCU,W9ZSCwpBL6Q,Gakyuom PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Ayod County,Pajiek Payam,Gorwai PHCC,oRGmGEPOblN,Gorwai PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Ayod County,Kurwai Payam,Haat PHCU,xBDvxV51rtO,Haat PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Bor South County,Jalle Payam,Jalle PHCC,esj324SvCIa,Jalle PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Ayod County,Wau Payam,Jiech / Wau PHCC,F1vLCeN1PtI,Jiech / Wau PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Fangak County,Manajang Payam,Juaibor PHCC,FOlQkO84SPy,Juaibor PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Akobo County,Walgak Payam,Kaikuiny PHCC,OmcZNdg3rzT,Kaikuiny PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Ayod County,Mogok Payam,Kandak PHCU,IipPtVuuu2V,Kandak PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Fangak County,Phom Payam,Keew PHCC,Bmkq76MEp4z,Keew PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Ayod County,Wau Payam,Kharmun PHCU,MseHO6OMtAk,Kharmun PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Twic East County,Lith Payam,Khiir PHCU,abRBI8F8a3d,Khiir PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Pigi County,Atar Payam,Khorfulus PHCC,Tu7Uu6UhGFE,Khorfulus PHCC,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Pigi County,Khorwac Payam,Khorwac PHCC,y5UEMRBtdHt,Khorwac PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Fangak County,Paguer Payam,Koat Nyakong PHCU,GkJfHmBujAp,Koat Nyakong PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Pigi County,Khorwac Payam,Kolanyang PHCU,cM1tRbPp9PX,Kolanyang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Bor South County,Jalle Payam,Kolmerak PHCU,psqdrqau2s2,Kolmerak PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Bor South County,Kolnyang Payam,Kolnyang PHCC,VfhRFbcBr9g,Kolnyang PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Twic East County,Kongor Payam,Kongor PHCC,Scmg0SG9fB0,Kongor PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Duk County,Padiet Payam,Koyom Island PHCU,ljwF7v1WYNv,Koyom Island PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Ayod County,Kuach-deng Payam,Kuachdeng PHCU,o8rfCX76JY8,Kuachdeng PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Fangak County,Manajang Payam,Kuemduok PHCU,dBSla4R7qXb,Kuemduok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Fangak County,Manajang Payam,Kuernyang PHCC,NFdLaRvJKIn,Kuernyang PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Fangak County,Paguer Payam,Kuerphon PHCU,aiA6nEV2gIY,Kuerphon PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek Centre County,Matangai Payam,Abeer PHCU,MOtBF8Hl1Jj,Abeer PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Cueibet County,Abiriu Payam,Abiriu PHCC,X1KzCfAWQy4,Abiriu PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Awerial County,Abuyung Payam,Abuyung PHCU,y13EQSM0aFS,Abuyung PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek North County,Malueeth Payam,Achiek PHCU,vB7nvzMx1xn,Achiek PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Yirol East County,Lekakedu Payam,Acigor PHCU,P8IHkhEZMbh,Acigor PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Yirol East County,Adior Payam,Adior PHCC,KMzkuJjXEZM,Adior PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek Centre County,Amongpiny Payam,Adir-Dir PHCU,GKPCLhFe98F,Adir-Dir PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Aduel Payam,Aduel PHCC,vNJA1Q4M3D0,Aduel PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Cueibet County,Ngap Payam,Agangrial PHCU,IFoxvWf3JFx,Agangrial PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Yirol West County,Aluakluak Payam,Agany PHCU,vP85vJUqiFZ,Agany PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek Centre County,Jiir Payam,Akoljal PHCU,m8itCpQwtBg,Akoljal PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Akot Payam,Akot PHCC,iZnD567dPan,Akot PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek North County,Aloor Payam,Aloor PHCU,cqfP9xPnVEv,Aloor PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Yirol West County,Aluakluak Payam,Aluak Luak PHCC,MB3iWYWO1L5,Aluak Luak PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Yirol East County,Adior Payam,Billing PHCU,X6UW5k9GL43,Billing PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Awerial County,Bunangok Payam,Bunagok PHCC,goSJRXs3Sos,Bunagok PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Cueibet County,Citcok Payam,Chitchok PHCC,upnocuYN7Ri,Chitchok PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek Centre County,Matangai Payam,Coloc-Cok PHCU,l5euzqv2dq5,Coloc-Cok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Cueibet County,Malou Pec Payam,Cueibet County Hospital,AWKbfRNMd4O,Cueibet County Hospital,   County Hospital,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Cueicok Payam,Cueicok PHCC,bzbBqVX2Y42,Cueicok PHCC,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek Centre County,Rumbek Town Payam,Deng Nhial PHCU,JWUoD6I4M3d,Deng Nhial PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Wulu County,Domoloto Payam,Deteku PHCU,OBp5taHJNpN,Deteku PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Aduel Payam,Dhiau-Kuei PHCU,FApiPaNLjot,Dhiau-Kuei PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Wulu County,Domoloto Payam,Dokuru PHCU,p1Waq6NlcYA,Dokuru PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Awerial County,Dor Payam,Dor PHCU,cRqbykE2lKt,Dor PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Cueibet County,Duony Payam,Duony PHCU,wG6sWUBxZUj,Duony PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Wulu County,Wulu Payam,Guba PHCU,zNmIbrd7W1P,Guba PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Wulu County,Bargel Payam,Gulmar PHCU,WylnSOa9haX,Gulmar PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Awerial County,Puluk Payam,Kalthok PHCU,UM0b6bZFTww,Kalthok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Yirol East County,Pagarau Payam,KAP PHCU,cOIn2qPimik,KAP PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek Centre County,Rumbek Town Payam,Kiir Mayardit Woman HOSPITAL,TOdkTsJY3h6,Kiir Mayardit Woman HOSPITAL, Teaching Hospital,Orange,#REF!,#REF!
+South Sudan,Lakes State,Cueibet County,Abiriu Payam,kubri William PHCU,KTiWbZ6Atgi,kubri William PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Malenagok Payam,Kuelkuec PHCU,JN4paBv58cl,Kuelkuec PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Wulu County,Makundi Payam,Laam PHCU,zCQvhqiTJXt,Laam PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Yirol East County,Malek Payam (Yirol E),Lang Matol PHCU,uJcPVJSuzqr,Lang Matol PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Cueibet County,Malou Pec Payam,Langdit PHCU,vGjvyhjPFGM,Langdit PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Yirol East County,Lekakedu Payam,Lekakedu PHCU,L0Co4qnORlK,Lekakedu PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Malual East Payam,Abyei Chok PHCU,DUpxinmloYC,Abyei Chok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Achana Payam,Achana PHCU,s37WkNe9YQr,Achana PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Malual Bai Payam,Adoor PHCU,fxaV3wurjMH,Adoor PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Mariem East Payam,Aguat PHCU,JuvvKpl9zpG,Aguat PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Malual Centre Payam,Ajak Wol PHCU,jNK9M0NLB4V,Ajak Wol PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil South County,Gakrol Payam,Akac PHCC,IMXROb7FlIE,Akac PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Yargot Payam,Akuem PHCC,T9Bp33InwUe,Akuem PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil Centre County,Bar Mayen Payam,Alok PHCU,Yiwr6jkFv5K,Alok PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Mariem East Payam,Aluel Achot PHCU,ASrOtFjEFjd,Aluel Achot PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Mariem East Payam,Amatnyang PHCU,fIfrTFzMpnb,Amatnyang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Gomjuer East Payam,Amatnyang PHCU,aszmXb8W6Cd,Amatnyang PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Mariem East Payam,Chelcou PHCC,ZzWVxppIMd0,Chelcou PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Baach Payam,Cuomator PHCU,W6wrCFXpQah,Cuomator PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil Centre County,Nyalath Payam,Gabat PHCC,dhF0zQRQ05S,Gabat PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Malual North Payam,Gok Machar PHCC,Z3fTSFMtfNV,Gok Machar PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Baach Payam,Goldhim TB PHCC,Z3Qy7YoybYO,Goldhim TB PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Mariem East Payam,Guangnou PHCU,foq1ThudZZ3,Guangnou PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Malual West Payam (Aweil N),Jaac PPF PHCU,lQWfadajAZH,Jaac PPF PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Ariath Payam,Kajik PHCU,k4taRUZgwhL,Kajik PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil Centre County,Awulic Payam,Kuom PHCU,av3CEhUL2fD,Kuom PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Pibor Administrative Area,Pochalla County,Adongo Payam,Ajwara PHCU,wDjXMhTBjVT,Ajwara PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Pibor Administrative Area,Pibor County,Gumuruk Payam,Boma PHCC,BKpbwBh3Xo4,Boma PHCC,   County Hospital,Green,#REF!,#REF!
+South Sudan,Pibor Administrative Area,Pibor County,Kiziongora Payam,Khoradep PHCU,x6wg9iAelYO,Khoradep PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Pibor Administrative Area,Pibor County,Miwono Payam,Labarab PHCU,wJoDKf7eos6,Labarab PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Ruweng Administrative Area,Abiemnhom County,Abiemnom Payam,Abiemnom PHCC,uLEi6odqenf,Abiemnom PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Ruweng Administrative Area,Pariang County,Jamjang Payam,Ajoungthok PHCU,kFzl6ODllUV,Ajoungthok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Ruweng Administrative Area,Pariang County,Biu Payam,Biu PHCC,P4jn4BDBHvT,Biu PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Ruweng Administrative Area,Pariang County,Aliiny Payam,Bongki PHCU,DrAr8WxEme3,Bongki PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Ruweng Administrative Area,Pariang County,Jamjang Payam,Gumriak PHCU,tzZOnvYaLza,Gumriak PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Ruweng Administrative Area,Pariang County,Jamjang Payam,Hakima Yacoub PHCC,ROvqQFjmeyY,Hakima Yacoub PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Ruweng Administrative Area,Pariang County,Jamjang Payam,Jamjang PHCC,fZMGT7FP3yV,Jamjang PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Ruweng Administrative Area,Pariang County,Nyiel Payam,Kong PHCU,VgbxK87iIUK,Kong PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Leer County,Adok Payam,Adok PHCC,ikP6hKzp426,Adok PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Unity State,Leer County,Bou Payam,Bou PHCU,uT5MmWFyeow,Bou PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Koch County,Boaw Payam,Boaw PHCC,qWRgw28vCN8,Boaw PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Unity State,Leer County,Padeah Payam,Dindin PHCU,iHZKwYatK5z,Dindin PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Panyijar County,Tiap Payam,Chuk PHCU,uRzBQauQjxq,Chuk PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Leer County,Padeah Payam,Gandor PHCU,UfU1uxTchpt,Gandor PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Panyijar County,Ganyliel Payam,Ganyiel PHCC,iAVwvOesvbL,Ganyiel PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Unity State,Leer County,Guat Payam,Guat PHCU,AZWPfydUtO2,Guat PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Guit County,Guit Payam,Guit PHCC,Vr8wp1GIyx8,Guit PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Unity State,Mayendit County,Tharjiath Payam,Jaguar PHCU,WVbiFDfdmkD,Jaguar PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Panyijar County,Nyal Payam,Janglou PHCU,ziDGax3DfFP,Janglou PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Leer County,Dok Payam,Juong PHCU,IwYqd0RGXCf,Juong PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Rubkona County,Kaljak Payam,Kaljak PHCC,coa8AlhTWmr,Kaljak PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Unity State,Guit County,Kadet Payam,Kedat PHCU,A7UXCHbbY6P,Kedat PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Koch County,Kochlual Payam,Koch Hospital,SOrMJAYSAgS,Koch PHCC,   County Hospital,Green,#REF!,#REF!
+South Sudan,Unity State,Panyijar County,Kol Payam,Kol PHCU,MoSTnKVEZ1X,Kol PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Guit County,Kuach Payam,Kuach PHCC,hVpj1v7ZGDD,Kuach PHCC,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Guit County,Kuerguini Payam,Kuerguini PHCU,QaNPD1hFpLE,Kuerguini PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Mayom County,Kueryiek Payam,Kueryiek PHCU,WEJT2lQoHsY,Kueryiek PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Mayendit County,Thaker Payam,Kuok PHCU,OGOQI7aOkzl,Kuok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Panyijar County,Tiap Payam,Laidit PHCU,VvFi3rKs41p,Laidit PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Mayendit County,Luom Payam,Leah PHCU,b1Akm08hEa3,Leah PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Renk County,South Renk,Abayok PHCC,SebUamhXY3f,Abayok PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Upper Nile State,Fashoda County,Dethok Payam,Abienyai PHCU,EgO0i2kpZ3e,Abienyai PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Upper Nile State,Renk County,North Renk Payam,Abukadhra PHCU,HvuVxV83ls4,Abukadhra PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Fashoda County,Aburoc Payam,Aburoc PHCC,yKahNV20MYy,Aburoc PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Upper Nile State,Fashoda County,Dethok Payam,Aburoc PHCU,Pb4sJmFTETR,Aburoc PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Fashoda County,Lul Payam,Achake PHCU,zZrPmvt1LVA,Achake PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Upper Nile State,Fashoda County,Kodok Payam,Adodo PHCC,ottnbfaCjnm,Adodo PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Upper Nile State,Baliet County,Adong Payam,Adong PHCC,VLB5WUC9xuz,Adong PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Renk County,Geger Payam,Alaka PHCU,zNRjNixiN2r,Alaka PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Panyikang County,Panyidwoi Payam,Alaki PHCU,tEqupBB9cpS,Alaki PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Upper Nile State,Ulang County,Yomding Payam,Bimbim PHCU,CI04syitJIF,Bimbim PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Fashoda County,Lul Payam,Bol PHCU,y9qUFKh7wey,Bol PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Banashowa Payam,Bougaya PHCU,yxAiV4SM6aU,Bougaya PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Bunj Payam,Bunj HOSPITAL,GrQg9hubq1U,Bunj HOSPITAL,   County Hospital,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Bunj Payam,Bunj RI PHCC,tDKAzEPoKWZ,Bunj RI PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Renk County,Chemmedi Payam,Chemmedi PHCC,NI0BM5v04KQ,Chemmedi PHCC,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Longochuk County,Wudier Payam,Chot Lual PHCU,BdKjvZGqXI2,Chot Lual PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Longochuk County,Guelguk Payam,Chutbora PHCC,U2pv5fkNbYB,Chutbora PHCC,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Longochuk County,Dajo Payam,Dajok PHCC,wH9InfBEE5J,Dajok PHCC,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Banashowa Payam,Dangaji PHCU,Z75fKuupjAa,Dangaji PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Fashoda County,Dethok Payam,Detwok PHCU,oyZTj9h7TKl,Detwok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Luakpiny/Nasir County,Kiech Kuon Payam,Dhekdhek PHCU,fYqaNC8Kpe3,Dhekdhek PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Luakpiny/Nasir County,Dingkar Payam,Dingkar PHCU,JhTLpDCdqJ3,Dingkar PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Ulang County,Doma Payam,Doma PHCU,eMYPDAX1PCA,Doma PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Khor El Amer Payam,Doro Extension PHCU,lVunYpHrpzM,Doro Extension PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Khor El Amer Payam,Doro PHCC,rPjmRMRNTOm,Doro PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Ulang County,Ulang Payam,Dura PHCU,CKURGrJCb3r,Dura PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Renk County,North Renk Payam,ECS PHCC,LE7GinYcCaJ,ECS PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Luakpiny/Nasir County,Roam Payam,Gaireng PHCU,qOlrEij0IwQ,Gaireng PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Melut County,Galdora Payam,Galdora PHCC,b0FiyAiNvKj,Galdora PHCC,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Jinkuata Payam,Gandrassa PHCC,A11fPGbAf0r,Gandrassa PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Bunj Payam,Gasm Allah PHCU,ZFJZj9NsrJk,Gasm Allah PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Baliet County,Gel Achiel Payam,Gellachol PHCU,rloPT3DQ8po,Gellachol PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Jinkuata Payam,Gentil PHCC,uI63V6eQ6Fw,Gentil PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Renk County,Geger Payam,Gerger PHCC,rStaVI7Q972,Gerger PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Fashoda County,Kodok Payam,Gollo PHCU,znn1oyqeGeF,Gollo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Longochuk County,Guelguk Payam,Guelguk PHCC,VDuX7v6fdNx,Guelguk PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Luakpiny/Nasir County,Maker Payam,Gurnyang PHCU,GucHASSPjIt,Gurnyang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Luakpiny/Nasir County,Roam Payam,Homkor PHCU,h57RNt5tUit,Homkor PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Renk County,Jalhak Payam,Jalhak PHCC,B4JZRTrsm6l,Jalhak PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Jinmakda Payam,Jamam PHCU,aBrVonWSggt,Jamam PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Renk County,Geger Payam,Jerbana PHCC,IeSzQOXS8E8,Jerbana PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Luakpiny/Nasir County,Jikmir Payam,Jikmir PHCC,xBAqaWmzlZQ,Jikmir PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Longochuk County,Longochuk Payam,Jongok PHCU,E86ylJwYxOm,Jongok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maiwut County,Jotome Payam,Jotome PHCU,umn7o95o6e0,Jotome PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Manyo County,Kaka Payam,Kaka PHCC,UmkdBLsmzzv,Kaka PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Jinkuata Payam,Kaya PHCC,BF3n7mziofJ,Kaya PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Jinkuata Payam,Kaya PHCU,g5XHHayrqVD,Kaya PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Luakpiny/Nasir County,Kiech Kuon Payam,Kierwan PHCU,A9lfvCPxKdn,Kierwan PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Luakpiny/Nasir County,Kuerenge-ke Payam,Kierwanding PHCU,wHhrswCEKpy,Kierwanding PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Manyo County,Kitgwang Payam,Kitgwang  PHCU,mIn2K4BIgkj,Kitgwang  PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Fashoda County,Kodok Town Payam,Kodok Hospital,KTwTmj4YNs4,Kodok Hospital,   County Hospital,RED,#REF!,#REF!
+South Sudan,Upper Nile State,Ulang County,Kurmuot Payam,Kuich PHCC,QgdOMTycPiQ,Kuich PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Malakal County,Lelo Payam,Lelo PHCU,N3ewyZDBrnN,Lelo PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Kuac North Payam,Agei PHCU,cb0I9FwnTon,Agei PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Warrap State,Tonj South County,Tonj Payam,Aguka PHCU,iVDca1azU0U,Aguka PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Ajak-kuac Payam,Ajak Kuach PHCC,va2drGChNwX,Ajak Kuach PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Kuac North Payam,Ajiep PHCU,dtpHLfGplRU,Ajiep PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial East County,Toch North Payam,Ajogo PHCU,RI4pL5KdgcB,Ajogo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Wunrok Payam,Ajong PHCU,U8sffylo4Lf,Ajong PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Pannyok Payam,Akak PHCC,EdzYa0louw8,Akak PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Akoc Payam,Akoc PHCC,B4krw4JvBS5,Akoc PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Akon South Payam,Akon PHCC,S4vRB5yyt5Z,Akon PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj North County,Akop Payam,Akop PHCC,s0leue3HW4m,Akop PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj North County,Alabek Payam,Alabek PHCC,Ah1x8SkuSkw,Alabek PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Alek South Payam,Alek PHCC,jLqTCTSrnzC,Alek PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj North County,Aliek Payam,Aliek PHCC,H3MZblF6T8s,Aliek PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Aweeng Payam,Bulyom PHCU,G2HFUrINYKV,Bulyom PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Akoc Payam,Dhiau Agal PHCU,rvQXuA4MFEd,Dhiau Agal PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Warrap State,Tonj North County,Manloor Payam,Fareksika PHCU,d552iEbuKQv,Fareksika PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Gogrial Payam,Gogrial PHCC,tSWDBLVbvD9,Gogrial PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj South County,Jak Payam,Jak PHCU,PZRbdd0crdE,Jak PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj East County,Malualcum Payam,Kacuat PHCU,pPkqNBJ1BNI,Kacuat PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Alek West Payam,Keet PHCU,a1Hzc1llmC2,Keet PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj North County,Kirik Payam,Kirrik PHCU,rbZBl5Hxa1J,Kirrik PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Kuac North Payam,Kuajok State HOSPITAL,Qf6zm1BRggO,Kuajok State HOSPITAL,  State Hospital,Orange,#REF!,#REF!
+South Sudan,Warrap State,Tonj East County,Paweng Payam,Kuelcuk PHCU,Q7XZjYMLj5k,Kuelcuk PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Udici Payam,Abou PHCU,MTyMTPlEnhW,Abou PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Raga County,Uyujuku Payam,Abul PHCU,o7Cn1xEGbTP,Abul PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Besselia Payam,Abushaka PHCU,RHwLjL3DYCZ,Abushaka PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Marial Bai Payam,Achong Chong PHCC,I2SO4YQzs7c,Achong Chong PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Rocrocdong Payam,Achot PHCU,UvAVXHPdkKY,Achot PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Wau Bai Payam,Adet PHCU,unXoRwN97Yq,Adet PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Wau South Payam,Agok PHCC,PJ3KBk7GGM3,Agok PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Kangi Payam,Ajugo PHCU,UyTWIPClYXW,Ajugo PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Wau Bai Payam,Akonbet PHCU,xoWNJVKsWFy,Akonbet PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Rocrocdong Payam,Akrok PHCU,uhsYCb6DeVS,Akrok PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Marial Bai Payam,Alelchok PHCU,iCloO1evpPi,Alelchok PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Kangi Payam,Alelthony PHCU,auSGD5IEa82,Alelthony PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Wau South Payam,Aljazeira PHCC,iqMdqcRIxHQ,Aljazeira PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Raga County,Ringi Payam,Boro Medina PHCC,sSc3lnlsVlk,Boro Medina PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Wau South Payam,Daniel Comboni HOSPITAL,e23phva0S0A,Daniel Comboni HOSPITAL,   County Hospital,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Raga County,Uyujuku Payam,Deim Zubeir PHCC,yHwWdVdIvVH,Deim Zubeir PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Raga County,Ringi Payam,Deimjallab PHCU,dFVPd1Fl07c,Deimjallab PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Raga County,Raga Payam,Deleba PHCU,vEq8auHPs1h,Deleba PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Kangi Payam,Dhekou PHCU,v9RM7OoRf5Q,Dhekou PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Rocrocdong Payam,East Bank PHCC,YrUWKzUdnMn,East Bank PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Bagari Payam,Farajala PHCU,q1r3dKC8aad,Farajala PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Raga County,Ringi Payam,Gessboro PHCU,xsFPLfw2OeD,Gessboro PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Udici Payam,Gette PHCU,QrsDZTigsmf,Gette PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Kpaile Payam,Giatan PHCU,d7VdwGUPl43,Giatan PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Wau North Payam,Hai Bafra PHCU,T07sKDUlgjT,Hai Bafra PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Wau North Payam,Hai Dinka PHCC,fkIY4lnxM6i,Hai Dinka PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Besselia Payam,Kaabi PHCU,SQRBBVNcm69,Kaabi PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Kangi Payam,Kangi PHCC,MQ8o8zEwqJi,Kangi PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Udici Payam,Kanyango PHCU,quXY8r42uAK,Kanyango PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Raga County,Ringi Payam,Katta PHCU,vO0Dp1ALXPP,Katta PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Kuajiena Payam,Kuajena PHCC,MLNC5QWCwYG,Kuajena PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Marial Bai Payam,Kuom PHCU,LsegzgTcgTv,Kuom PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Raga County,Uyujuku Payam,Kuru PHCC,G8uroz3XS4b,Kuru PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Mambe Payam,Affa PHCU,wRZbUkH5K8g,Affa PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Minga Payam,Agyi PHCU,vWERHsSz5bh,Agyi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Tambura Payam,Akpa PHCU,bZmyqQnCBy4,Akpa PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri West County,Amadi Payam,Amadi PHCU,If60O9veey1,Amadi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Kozi Payam,Amaki PHCU,yhAHWejNn5d,Amaki PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Ibba County,Ibba Centre Payam,Bishop Duatuka PHCU,jaCHq3dNIsu,Bishop Duatuka PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri West County,Amadi Payam,Bitti PHCU,KdeD5jsgFFG,Bitti PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Yambio Town Payam,Bodo PHCU,IzuqcDwL4hg,Bodo PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Mvolo County,Bagori Payam,Bogori PHCU,U6paRuC0FQO,Bogori PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri West County,Bangolo Payam,Bongolo PHCC,A05vJEYgDIk,Bongolo PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Lozoh Payam,Buagyi PHCU,VZT2cmQHKOO,Buagyi PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Bangasu Payam,Burezigbo PHCU,h1huRCt9Q0A,Burezigbo PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Kozi Payam,Chochoro PHCU,kcgPOgga70z,Chochoro PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Nagero County,Namutina Payam (Nagero),Dangu PHCU,L70twy21iB6,Dangu PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mvolo County,Dari Payam,Dari PHCU,Czo5w2D9t1t,Dari PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Naandi Payam,Diabio PHCU,p8VVtV4PoDZ,Diabio PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Tambura Payam,Dingimo PHCU,hEuKuJkZUyK,Dingimo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mvolo County,Mvolo Payam,Domeri PHCU,Oi2yQ2BsyHs,Domeri PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Maridi Payam,Don Bosco Clinic PHCC,GdScjiY0b11,Don Bosco Clinic PHCC,   PHCC,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Landili Payam,Dorrolilli PHCU,UZ4lQWg2muu,Dorrolilli PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Kediba Payam,Dosho PHCU,rgBQb8B65tm,Dosho PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ibba County,Ibba Centre Payam,Duatuka PHCU,wCxn1uU7KoO,Duatuka PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Landili Payam,Dukudu-olo PHCC,NRhiIlVBemz,Dukudu-olo PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Nagero County,Duma Payam,Duma PHCU,jUWCN4Uugrc,Duma PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Ezo Centre Payam,ECS Masumbu PHCU,EEWVUlVRYzQ,ECS Masumbu PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Ezo Centre Payam,Ezo Hospital,EiULmp38gHE,Ezo Hospital,   County Hospital,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Lozoh Payam,Gabat PHCU,eaiA8q78lEi,Gabat PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Tambura Payam,Gamunakpe PHCU,zOH0XmIOR2P,Gamunakpe PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Gangura Payam,Gangura PHCC,ZI7b5hizWNL,Gangura PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri West County,Kotobi Payam,Garia PHCU,x3g2hgm8uZv,Garia PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mvolo County,Bagori Payam,Gira PHCU,xKXeDpPeH44,Gira PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri West County,Kotobi Payam,Goribalau PHCU,XNYKYFhwKBo,Goribalau PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri West County,Mundri Payam,Gulu PHCU,PZNTOnjdAbd,Gulu PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mvolo County,Lessi Payam,Lesi PHCU,llLWygkn9cQ,Lesi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Malual Bai Payam,Lieth PHCC,RYIYJHp5w2j,Lieth PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial East County,Toch East Payam,Lietnhom DTC PHCC,fC5wLjkGYG6,Lietnhom DTC PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Lainya County,Kenyi Payam,Limbe PHCC,lmTCXjmTgcX,Limbe PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Kangapo One Payam,Limi PHCU,qzz91rAFKFx,Limi PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Lainya County,Wuji Payam,Limuro PHCU,dbWHgaOQnjq,Limuro PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Lirya Payam,Lirya PHCC,DOgXGTDa7d4,Lirya PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Kangapo One Payam,Litoba PHCU,Ed2klEVwkL9,Litoba PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Nagero County,Namutina Payam (Nagero),Guruvanza PHCU,L9Qx6jiMYMB,Guruvanza PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Lomohidang North Payam,Lobira PHCU,uJ4l1sq4zuO,Lobira PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Ibba County,Ibba Centre Payam,Ibba PHCC,uBgFxsrfllW,Ibba PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Lobonok Payam,Lobonok PHCC,mCpjOQGtUTO,Lobonok PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Imotong Payam,Lobwaye PHCU,Bg0QRSe2YRw,Lobwaye PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Lomohidang South Payam,Lodurumo PHCU,nR7pxRpvLAh,Lodurumo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Lomohidang South Payam,Lodwara PHCU,pcCmjhp7LB1,Lodwara PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Imotong Payam,Lofulung PHCU,zQV8buvNhr5,Lofulung PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Losite Payam,Lofus PHCU,Dt17DuPliyN,Lofus PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Imotong Payam,Logire Hutuk-hinyang PHCU,YTXKZXTWogV,Logire Hutuk-hinyang PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Otogo Payam,Logo PHCU,XmNvlQFVY9s,Logo PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Yei Town Payam,Logobero PHCU,UPdJomdTbuR,Logobero PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Arihilo Payam,Logonowati PHCU,sRnlrEG3rIq,Logonowati PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Kangapo Two Payam,Logu PHCU,UA4j4MmGS1H,Logu PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Lainya County,Lainya Payam,Logwili PHCU,ImAhxEgkhRn,Logwili PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Komori Payam,Lojiong PHCU,hMek4rCAHQ1,Lojiong PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Reggo Payam,Lojora PHCU,JUv4PT55G6X,Lojora PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Lainya County,Lainya Payam,Loka Round PHCU,iygMRbdWOgE,Loka Round PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Komori Payam,Lokidele PHCU,nsqzsCQ6S8i,Lokidele PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Lokiliri Payam,Lokiliri PHCC,zqcxljcTibn,Lokiliri PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta North County,Karukomuge Payam,Lokoges PHCU,UQUciONr4OR,Lokoges PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Wau North Payam,Lokoloko PHCC,hTHoG3R84X7,Lokoloko PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Kator Payam,Lologo PHCC,yQGv7u2PPDd,Lologo PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta North County,Lomeyen Payam,Lomeyen PHCU,Bs37IJ3170C,Lomeyen PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Lohutok Payam,Loming PHCU,SnkzLcgZpwf,Loming PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Imotong Payam,Lomwoo PHCU,oElIJgkgCK1,Lomwoo PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Mambe Payam,Longbua PHCU,hj4t9X7ukF8,Longbua PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta South County,Longeleya Payam,Longeleya PHCU,E5DmJjUiPW2,Longeleya PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Longiro Payam,Longiro PHCU,Ckqhne6EQbK,Longiro PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ibba County,Ibba Centre Payam,Ibba Prison PHCU,YdR59q7Fzkw,Ibba Prison PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta East County,Narus Payam,Loolim PHCU,bNyekr4BEHr,Loolim PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta North County,Karukomuge Payam,Lopetet PHCU,YpNL1qI5M5R,Lopetet PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Lotukei Payam,Lorema PHCC,nJdHDRZr8to,Lorema PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Ikotos Payam,Lorima PHCU,XtdDWpOpSVm,Lorima PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Loriyok Payam,Loriyok PHCU,GuzpyLAP434,Loriyok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta East County,Lotimor Payam,LOTIMOR PHCU,i9FEURIsw87,LOTIMOR PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Losite Payam,Lotome PHCU,IcEJWC575L4,Lotome PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Reggo Payam,Lowirja PHCU,rKho7C1omCS,Lowirja PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Kudo Payam,Lowoi PHCC,v1fwJBDZGFZ,Lowoi PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta East County,Katodori Payam,Lowoyakali PHCU,J3IEGCOyxVH,Lowoyakali PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Lozoh Payam,Lozoh PHCU,RXMgaCDfAeE,Lozoh PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Malakal County,Northern Malakal Payam,Luakat PHCU,iYOZOUWRiCd,Luakat PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Unity State,Leer County,Padeah Payam,Lual PHCU,XvUs4aufqEl,Lual PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Luakpiny/Nasir County,Dingkar Payam,Lual Yak PHCU,oZVXebbILEy,Lual Yak PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Bor South County,Makuach Payam,Lualdit PHCU,jEPSk679Mh6,Lualdit PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Lozoh Payam,Lui HOSPITAL,Gj5ckKJIoGm,Lui HOSPITAL,   County Hospital,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Morobo County,Lujulo Payam,Lujulo PHCU,ayjvQA1vHfl,Lujulo PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Upper Nile State,Fashoda County,Lul Payam,Lul West PHCU,VafYZGRtkMz,Lul West PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Mayendit County,Luom Payam,Luom PHCU,GagLLNk1q4P,Luom PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial East County,Pathuon West Payam,Luonyaker PHCC,p0h0uXIRAcy,Luonyaker PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj North County,Pagol Payam,Lurchuk PHCU,ADZgBWUbzQE,Lurchuk PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Northern Bari Payam,Luri rokwe PHCU,o7HqgAlmodH,Luri rokwe PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Northern Bari Payam,Luri-Somba PHCU,wLDazuCfBux,Luri-Somba PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Munuki Payam,Lutheran PHCC,dKYfU3t2Dl4,Lutheran PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Jonglei State,Twic East County,Pakeer Payam,Maar PHCC,MKe4Dklgfll,Maar PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Ayod County,Pajiek Payam,Maar PHCU,CJF2Ms1fYWD,Maar PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Tambura Payam,Mabaiku PHCU,QzSK4zO9C21,Mabaiku PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Rii - Yubu Payam,Mabenge PHCU,jTozE09VrMh,Mabenge PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Mupoi Payam,Mabia PHCU,rnvbr6ZUGym,Mabia PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Baach Payam,Mabil PHCC,aaDHurdcIeR,Mabil PHCC,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Maridi Payam,Mabilindi PHCU,KiUCk7QLBa7,Mabilindi PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Wau Bai Payam,Mabior Abiem PHCU,SipHTvBZTyH,Mabior Abiem PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Warrap State,Tonj South County,Wath-alel Payam,Mabior yar PHCU,J1p1OP60EB9,Mabior yar PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil Centre County,Chel South Payam,Mabok Akot PHCU,siUTqJda7jP,Mabok Akot PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Madhol Payam,Mabok Tong PHCU,NfcwAwnhjaO,Mabok Tong PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Aduel Payam,Mabor Duang PHCC,VbOJgeWh2Qo,Mabor Duang PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Atiaba Payam,Maboric PHCU,qEMCcv0xgue,Maboric PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ibba County,Madebe Payam,Madebe PHCC,SuJv0v3iGDw,Madebe PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Mangar Tong Payam,Madhol PHCU,LWQyCrga2IH,Madhol PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Madhol Payam,Madhol PHCU,KaY5tH0xlny,Madhol PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Luakpiny/Nasir County,Mading Payam,Mading PHCC,rKt06B3rC0S,Mading PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Tali Payam,Mading PHCU,OE2oPO6vnyY,Mading PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Unity State,Mayendit County,Pabuong Payam,Madol PHCU,QE5QiOHr5xB,Madol PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Ezo Centre Payam,Madoro PHCC,XSXqcp9Wq8C,Madoro PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Yangiri Payam,Mafuyu PHCU,GhjKmPES8YF,Mafuyu PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Kuac South Payam,Magai PHCU,Zp0hpzYQ6H7,Magai PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Turalei Payam,Magak PHCC,E9ziQb9wpco,Magak PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Bangasu Payam,Magbuka PHCU,vxU5UO75BTg,Magbuka PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Equatoria State,Ibba County,Nabanga Payam,Iggi PHCU,CSPYyjXpcU8,Iggi PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Kediba Payam,Magyirii PHCU,C6gWIFxiIMq,Magyirii PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Juba Town Payam,Mahad PHCU,lWFMWMnpo3y,Mahad PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Maiwut County,Maiwut Payam,Maiwut PHCC,KIHfWzos4qS,Maiwut PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Malual West Payam (Aweil N),Majak Bai PHCC,SeZj85CQP4B,Majak Bai PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Malual Centre Payam,Majak Kar PHCC,pRJtRssStgH,Majak Kar PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Pannyok Payam,Majak Pagai PHCC,FCLyEsv6gk2,Majak Pagai PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Aduel Payam,Majak-Jier PHCU,Wa1Ov3CORpU,Majak-Jier PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Warrap State,Gogrial East County,Toch North Payam,Majak-Nyuom PHCU,x9Zmp3tu9GT,Majak-Nyuom PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ibba County,Nabanga Payam,Igyi PHCU,Vc4nTGBwfW7,Igyi PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Upper Nile State,Longochuk County,Guelguk Payam,Majiok PHCU,zOOTnc5oaVi,Majiok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Malual Bai Payam,Majok Yith Thiou PHCU,z7WfhLAgOr0,Majok Yith Thiou PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Achana Payam,Majook Dengdit PHCU,rvNSFdiOVDk,Majook Dengdit PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Aweeng Payam,Majook Noon PHCC,XTUQhh6GaXv,Majook Noon PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Kpaile Payam,Maju PHCU,YmpyyEo85Ca,Maju PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Reggo Payam,Makamagor PHCU,Qn2uhg8nWyz,Makamagor PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Cueicok Payam,Makembele PHCU,dP5cG3hkl67,Makembele PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Mariem West Payam,Maker PHCU,LDmdIq5ME0m,Maker PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Tali Payam,Makido PHCU,Yhbq9nRwiex,Makido PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Bor South County,Baidit Payam,Makol-Cuei PHCU,qxcEdRi9g1s,Makol-Cuei PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Wulu County,Bargel Payam,Makor PHCU,NlhMUHc5xmu,Makor PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Malual East Payam,Makuac Akech PHCU,J2JdIVAH6wP,Makuac Akech PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Warrap State,Tonj East County,Makuac Payam,Makuac PHCU,XNfj0Fqq95Z,Makuac PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil South County,Tar-Weng Payam,Makuei Alel PHCU,duwMretkQYS,Makuei Alel PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Mariem East Payam,Makuoc PHCU,lxPnDCZhQti,Makuoc PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Malakal County,Central Malakal Payam,Malakal Teaching HOSPITAL,QjlA8Qc4L28,Malakal Teaching HOSPITAL, Teaching Hospital,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Kator Payam,Malakia PHCC,k10XhHM14iG,Malakia PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Baach Payam,Malek Bol PHCU,dk6I2iEGtWw,Malek Bol PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Yirol East County,Malek Payam (Yirol E),Malek PHCC,mUdOVavWeMp,Malek PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Luakpiny/Nasir County,Kuerenge-ke Payam,Malek PHCU,pU7QlLLLcg5,Malek PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maiwut County,Olang Payam,Malek PHCU,a6gzTsixFLv,Malek PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Bor South County,Kolnyang Payam,Malek PHCU,DLehMA62jkM,Malek PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Kuac North Payam,Malek PHCU,mwykuIOrx8a,Malek PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Rumbek Centre County,Malek Payam,Malek PHCU,BWttVpja11W,Malek PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Ayat East Payam,Malek PHCU,oCcqGhe1uhr,Malek PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil South County,Nyocawany I Payam,Malekalel PHCU,o42Yk9Mqafs,Malekalel PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Malenagok Payam,Malengok PHCU,NzreLQBJ5na,Malengok PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Warrap State,Gogrial East County,Toch East Payam,Maliai PHCU,vLKAH1Ih4TS,Maliai PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Mayendit County,Maal Payam,Malkuer PHCU,hP8KHAbYtcd,Malkuer PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Fashoda County,Dethok Payam,Mallo PHCU,FzeAAoYRWHB,Mallo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Cueibet County,Malou Pec Payam,Malou Pec PHCC,W4e6ppZy8yB,Malou Pec PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Mathiang-kok Payam,Malou PHCU,r8K8RaVF0ER,Malou PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Bor South County,Bor Payam,Malou PHCU,zLWdh1E4LWZ,Malou PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Wunrok Payam,Malou-Hol PHCU,DlCtTmwSpN1,Malou-Hol PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Longochuk County,Guelguk Payam,Malow PHCU,CZAyYwELCnr,Malow PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Panyijar County,Mayom Payam (Mayom),Maluak PHCU,fwqoTFgKWn0,Maluak PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Abyei Administrative Area,Abyei County,Alal Payam,Malual Aleiu PHCU,hfYFXsMR4uq,Malual Aleiu PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Malual Bai Payam,Malual Baai PHCC,Nwd0jU6D2ms,Malual Baai PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek Centre County,Rumbek Town Payam,Malual Bab PHCC,IgU40jS7nRT,Malual Bab PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Malual East Payam,Malual Deng Aruom PHCU,qcMY5ZfIceL,Malual Deng Aruom PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj South County,Tonj Payam,Malual Muok PHCU,BaXMf7nWDQW,Malual Muok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Longochuk County,Malual Payam,Malual PHCU,RT9tqJ2NIuG,Malual PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Wunlang Payam,Malual-Kuel PHCU,UnIr5l5O2Pj,Malual-Kuel PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Baach Payam,Malualkon PHCC,jdDuGLYGhYh,Malualkon PHCC,   County Hospital,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Malual Bai Payam,Malualkon PHCC,TbClmTBnsH5,Malualkon PHCC,   PHCC,Orange,#REF!,#REF!
+South Sudan,Lakes State,Rumbek North County,Malueeth Payam,Malueth PHCU,PXvritJTEIh,Malueth PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Gogrial Payam,Maluil Ajak PHCU,VqC22aauvfj,Maluil Ajak PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Marial Bai Payam,Maluil PHCU,rp9Dlm11YYM,Maluil PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Unity State,Panyijar County,Kol Payam,Maluok PHCU,mfP9gyQqCTT,Maluok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Mambe Payam,Mambe 1 PHCU,oieR51dsAKA,Mambe 1 PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Aduel Payam,Manai PHCU,Q5Q2j2jHeuF,Manai PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Ruweng Administrative Area,Abiemnhom County,Abiemnom Payam,Manajoga PHCU,B28DxdG6Wuc,Manajoga PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Luakpiny/Nasir County,Kuerenge-ke Payam,Mandeng PHCU,Gmfp0R1IMnC,Mandeng PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Fangak County,Manajang Payam,Mandeng PHCU,rnYfOcBgf40,Mandeng PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Mangala North Payam,Mangalla PHCC,fnBDtQbzVIm,Mangalla PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Lomohidang North Payam,Mangalla PHCU,RRY3w9Hnf3G,Mangalla PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Yirol West County,Anuol Payam,Mangang PHCU,e9qMrxhD3cQ,Mangang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Mangar Tong Payam,Mangar Tong PHCU,kQWe91yMjsl,Mangar Tong PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Raga County,Uyujuku Payam,Mangayat PHCU,bnOu74tWf33,Mangayat PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Yambio Town Payam,Mangbondo PHCU,At1ahSmCPD5,Mangbondo PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Tambura Payam,Mangburu PHCU,CVKE369Zu9r,Mangburu PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Mangok Payam,Mangok PHCU,AO36UJ84Ci6,Mangok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ibba County,Manikakara Payam,Manikakare PHCU,J1EZUlxkVAq,Manikakare PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Jonglei State,Ayod County,Pagil Payam,Manime PHCC,uZtTPKVVk3I,Manime PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Unity State,Mayom County,Mankien Payam,Mankien PHCC,OgsyhAsGdI4,Mankien PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Nzara Centre Payam,Manvugo PHCU,DaHwAd7gi6z,Manvugo PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Malual West Payam (Aweil N),Manyiel Akok PHCU,p5MW3iJywJc,Manyiel Akok PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Wunlang Payam,Manyiel PHCU,Oysr09B5nk7,Manyiel PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Warrap State,Tonj South County,Manyang-ngok Payam,Manyiel-Thonny PHCU,PFwjp6jgmwF,Manyiel-Thonny PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Ezo Centre Payam,Manzinzi PHCU,GpU7KZT9ZZP,Manzinzi PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Bangasu Payam,Mapakuka PHCU,r0LMhkpG4wh,Mapakuka PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Kuajiena Payam,Mapel PHCC,SIXPkACzFsl,Mapel PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek North County,Maper Payam,Maper Centre HOSPITAL,DSPZfs6w9Ag,Maper Centre HOSPITAL,   County Hospital,Orange,#REF!,#REF!
+South Sudan,Lakes State,Rumbek North County,Maper Payam,Maper PHCC,wfC2L47lWcO,Maper PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Kuajiena Payam,Maranya PHCU,QelBfCuo9ej,Maranya PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Jonglei State,Bor South County,Anyidi Payam,Mareng PHCU,EAdJBe9ejHT,Mareng PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Ezo Centre Payam,Mariagba PHCU,wboQQh20esG,Mariagba PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Marial Bai Payam,Marial Ajieth PHCU,yYUkR5rYUE0,Marial Ajieth PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Ayat East Payam,Marial Bai DTC PHCC,VeR4dz3cG5v,Marial Bai DTC PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Marial Bai Payam,Marial Bai PHCC,iFnWicpMxZI,Marial Bai PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj North County,Marial Lou Payam,Marial Lou HOSPITAL,jv97UwyWs5z,Marial Lou HOSPITAL,   County Hospital,Orange,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Aweeng Payam,Marial Maper PHCC,Rnsx0bpkyOn,Marial Maper PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Maridi Payam,Maridi HOSPITAL,iqt2FuBd2Dv,Maridi HOSPITAL,   County Hospital,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Nagero County,Nagero Payam,Maringindo PHCU,Af3eW5xFcYR,Maringindo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ibba County,Madebe Payam,Marko PHCU,bQHfiYeA86z,Marko PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Malual Centre Payam,Marol Deng Geng PHCU,Rw8mEof12rh,Marol Deng Geng PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Achana Payam,Marol Madhan PHCU,Ahe6YOB3Mc3,Marol Madhan PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Yei Town Payam,Martha PHCC,P9vWsjAlZD9,Martha PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ibba County,Maruko Payam,Maruko PHCU,dOhQINlUc5a,Maruko PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Marial Bai Payam,Mary Help HOSPITAL,EgMUfMDm7Yg,Mary Help HOSPITAL,   County Hospital,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Tambura Payam,Matakurungu PHCU,pQMHUp8Pa8U,Matakurungu PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek Centre County,Matangai Payam,Matangai PHCC,Y6s2kwEy1vd,Matangai PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Tambura Payam,Matato PHCU,IVKPansPaLI,Matato PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Mathiang-kok Payam,Mathiang Kok PHCU,EyzEE5Hp7wI,Mathiang Kok PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Longochuk County,Longochuk Payam,Mathiang PHCC,Qf70H5Zhugs,Mathiang PHCC,   County Hospital,Green,#REF!,#REF!
+South Sudan,Jonglei State,Bor South County,Baidit Payam,Mathiang PHCU,uRa2CIseBt3,Mathiang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek Centre County,Matangai Payam,Mathiangdhiei PHCU,wxsg6mv3i1t,Mathiangdhiei PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial East County,Pathuon West Payam,Matiel PHCU,l8G9kX8vyLt,Matiel PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Khor El Amer Payam,Mayak PHCU,NIn2348YFt5,Mayak PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Cueibet County,Duony Payam,Mayath PHCU,IbhJS9sS1pr,Mayath PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Wunrok Payam,Mayen Abun PHCC,HE5aAdVFnfs,Mayen Abun PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj East County,Mayen Payam (Tonj E),Mayen Ador PHCU,lb1GmAU1t2z,Mayen Ador PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Kuac North Payam,Mayen Gumel PHCC,wa1mLQFs5SL,Mayen Gumel PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Akon North Payam,Mayen PHCU,ejDm2lpR0vZ,Mayen PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek North County,Mayen Payam,Mayen PHCU,jOwA0ncRct3,Mayen PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Cueibet County,Ngap Payam,Mayen Thon PHCU,LtsZMr1lUW7,Mayen Thon PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Malual East Payam,Mayen Ulem PHCU,VPUbuVICsh2,Mayen Ulem PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Mayendit County,Bhor Payam,Mayendit PHCC,v3D2dUNlXuL,Mayendit PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Malual North Payam,Mayom Adhal PHCU,dSqRcblIiZc,Mayom Adhal PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Ayat Center Payam,Mayom Akuang Rel PHCC,c7K1fTSfKma,Mayom Akuang Rel PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial East County,Toch North Payam,Mayom Chol PHCU,V2CHXq3kllK,Mayom Chol PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Mayom County,Kuerbone Payam,Mayom County,xrgNEXS5dIk,Mayom PHCC,   County Hospital,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Alek North Payam,Mayom PHCU,sx7C5QU6jmH,Mayom PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial East County,Pathuon East Payam,Mayom-Bioung PHCU,S0fk4srRas9,Mayom-Bioung PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri West County,Mundri Payam,Mbara PHCU,oAxaXUxwq6A,Mbara PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Kuajiena Payam,Mbili PHCU,LJMiptL2keU,Mbili PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Besselia Payam,Mboro PHCU,YNs35IQz3dz,Mboro PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Maridi Payam,Mboroko PHCU,YunIqAuI1XO,Mboroko PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Pibor Administrative Area,Pibor County,Lekuangole Payam,Meiwun PHCU,y44Jtf5gPEV,Meiwun PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Ngamunde Payam,Meke 2 PHCU,f4Vp68vbPVh,Meke 2 PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Melut County,Melut Payam,Melut Civil HOSPITAL,i4sZ34vttpt,Melut Civil HOSPITAL,   County Hospital,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Raga County,Ringi Payam,Menamba PHCU,xi0VTQx5s0c,Menamba PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Lire Payam,Mere PHCU,U8O9tmIaK8S,Mere PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Panyijar County,Nyal Payam,Merlsland PHCU,b7PgK1MvYh7,Merlsland PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Witto Payam,Mideh PHCC,aqCv3UfiMq9,Mideh PHCC,   PHCC,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Tali Payam,Mijiki PHCU,aRBsz7vvsnn,Mijiki PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Minga Payam,Minga PHCC,Bw78gorAnUu,Minga PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Awerial County,Puluk Payam,Minkaman PHCC,VszNPo1dWz1,Minkaman PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Yei Town Payam,Minyori PHCU,beAmuTA2MrM,Minyori PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Witto Payam,Miriba PHCU,OGMGp3d1LGZ,Miriba PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Koch County,Ngony Payam,Mirmir PHCC,BNEzdDm2s7T,Mirmir PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Uror County,Pathai Payam,Modit PHCU,ldl0I3pGbaH,Modit PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Mangala South Payam,Mogiri/Jobur PHCC,Tem2pOTBNb1,Mogiri/Jobur PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Ayod County,Mogok Payam,Mogok PHCC,HG7ikzCRcQD,Mogok PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta East County,Mogos Payam,Mogos PHCC,lfHgzyumCAG,Mogos PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Maridi Payam,Moku PHCU,JeRVoN1a75o,Moku PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Ajak-kuac Payam,Molbang PHCU,KqBFza5BZ9c,Molbang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Renk County,Jalhak Payam,Molbuk PHCU,Jy6Sf84nHn4,Molbuk PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri West County,Kotobi Payam,Karika PHCU,nThUAAaASdT,Karika PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Nyepo Payam,Mondi PHCU,SauH6hogvLh,Mondi PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Otogo Payam,Mongo PHCU,jHQep8gzZU9,Mongo PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Unity State,Panyijar County,Pachaar Payam,Morgok PHCU,zl1kgw9Kpbb,Morgok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Nyori Payam,Moridi PHCU,yP9KpB9dTyN,Moridi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Wulu County,Bargel Payam,Morkuec PHCU,bmC2jUSRig5,Morkuec PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Morobo County,Gulumbi Payam,Morobo Hospital,x0ADkqM4qJj,Morobo Hospital,   County Hospital,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Morobo County,Gulumbi Payam,Morobo PHCC,uzjysTMLSxl,Morobo PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Bagidi Payam,Moso PHCU,sQBcJrZVUsg,Moso PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta North County,Mosingo Payam,Mossingo PHCU,KOxnStgd7mw,Mossingo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Turalei Payam,Mother Theresa General HOSPITAL,RDg3Ze9T5UI,Mother Theresa General HOSPITAL,   County Hospital,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Kediba Payam,Movo PHCU,ogn6q0E0Fkl,Movo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Maridi Payam,Mudubai PHCU,AzSGZcPoLMs,Mudubai PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Bangasu Payam,Kasia PHCU,zHR1Qrkvnt0,Kasia PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Mugwo Payam,Mugwo PHCC,PbuzPPMcsje,Mugwo PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Wau North Payam,Muktah PHCC,YBFjtVr7chL,Muktah PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Tindilo Payam,Mundari Bura PHCC,aHQSAzPxglo,Mundari Bura PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri West County,Mundri Payam,Mundri PHCC,ayldrHBcCRW,Mundri PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Muni Payam,Muni PHCC,NSjrBgTIWMt,Muni PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Munuki Payam,Munuki PHCC,v23VAVHSoHJ,Munuki PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Mupoi Payam,Mupoi PHCC,TerFHXdwE9J,Mupoi PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Hiyala Payam,Mura Hatiha PHCU,Jgsi6GI3NKG,Mura Hatiha PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mvolo County,Mvolo Payam,Mvolo PHCC,QKJuhmQ3tax,Mvolo PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta North County,Karukomuge Payam,Naakwa PHCC,fUIGMnSDxZz,Naakwa PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Naandi Payam,Naandi PHCC,Ky79dh4ChP1,Naandi PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Yambio Town Payam,Naangbimo PHCU,HF07eiZSTwd,Naangbimo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ibba County,Nabanga Payam,Nabaga PHCC,fjxerd1Ywg7,Nabaga PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Yambio Town Payam,Nabagu I PHCU,BzNGtwDv9ay,Nabagu I PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Ibba County,Nabanga Payam,Nabanga PHCC,yWI9k6AM5pa,Nabanga PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Tambura Payam,Nabaria PHCU,fuCr8ugl2vA,Nabaria PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Sakure Payam,Nabubu PHCU,zYIaMPio7R5,Nabubu PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta South County,Machi I Payam,Nachilagur PHCU,kY6W0bzF36o,Nachilagur PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta East County,Narus Payam,Nadapal PHCU,L01ySzJuCvR,Nadapal PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Naandi Payam,Nagasi PHCU,qETxTwYpHyC,Nagasi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Maridi Payam,Nagbaka PHCU,Bo73vmhfUyj,Nagbaka PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Nagero County,Nagero Payam,Nagero PHCC,ZrmgmesWdQp,Nagero PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Nagishot Payam,Nagishot PHCC,w6jEkgBiMw6,Nagishot PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta South County,Pwata Payam,Nak Nak PHCU,WtCTR1fJFVn,Nak Nak PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Nzara Centre Payam,Nakapazi P PHCU,cllEKHO3wlu,Nakapazi P PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Upper Nile State,Panyikang County,Panyikang Payam,Nakdiar PHCU,m7KX5o2sDqp,Nakdiar PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Losite Payam,Nakoringole PHCU,yfehYw4qBlT,Nakoringole PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta South County,Machi II Payam,Nakware PHCU,VmQciys5ZVG,Nakware PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta East County,Narus Payam,NALIEL PHCU,gVwVVyOeiYW,NALIEL PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Nzara Centre Payam,Namaiku PHCU,YGv3uRTvNyV,Namaiku PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Nzara Centre Payam,Nambia PHCU,myUSxqsSvdb,Nambia PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta North County,Lomeyen Payam,Naminitoit PHCU,gbmucC9MZ4r,Naminitoit PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta North County,Mosingo Payam,Namonicheck PHCU,B3iEykjl3mh,Namonicheck PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta East County,Kauto Payam,NAMORUPUS PHCU,oRs4ZgmqXJp,NAMORUPUS PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Nagero County,Namutina Payam (Nagero),Namutina PHCC,WUJysFLYG6Y,Namutina PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Bagidi Payam,Nangbabe1 PHCU,vTp4vkqQDPH,Nangbabe1 PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Bangasu Payam,Nangere PHCU,SXrScpo8x41,Nangere PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Sakure Payam,Nangirimo PHCU,vDwXFYFdnfX,Nangirimo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta North County,Najie Payam,Nangoletirae PHCU,IV4ktvku6CW,Nangoletirae PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Mupoi Payam,Nangongo PHCU,FBci2Yu66Lb,Nangongo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Ezo Centre Payam,Nanzinga PHCU,thXJo6oloMS,Nanzinga PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Ezo Centre Payam,Napere PHCU,OCYBvJCaRdp,Napere PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta South County,Pwata Payam,Napetait PHCC,ntGMMLG0CMq,Napetait PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta East County,Katodori Payam,NAPOTPOT (Loburi) PHCU,tVTsvzm6dSB,NAPOTPOT (Loburi) PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta East County,Narus Payam,Narus CDoT PHCC,QjUEAAeYFew,Narus CDoT PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta East County,Narus Payam,Narus PHCC,VQOmGKq1wh1,Narus PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta East County,Mogos Payam,Nasigigriate PHCU,fiMuSPDeCKP,Nasigigriate PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Luakpiny/Nasir County,Nasir Payam,Nasir HOSPITAL,Fb5xo3iyUr0,Nasir HOSPITAL,   County Hospital,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Bagari Payam,Natabu PHCU,YQYJTfp2zeu,Natabu PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Loudo Payam,Nathilani PHCU,lMGHqRjgj8s,Nathilani PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta North County,Chumakori Payam,Nawoyamuria PHCU,fYaWkEgqwwy,Nawoyamuria PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Lokiliri Payam,Nesitu PHCU,tXkVCejzUVz,Nesitu PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Jonglei State,Fangak County,Mareang Payam,New Fangak Lele PHCC,vDprIk9Iu9w,New Fangak Lele PHCC,   County Hospital,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta East County,Natinga Payam,New Site Wodran PHCC,izweOJT2h5i,New Site Wodran PHCC,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Imotong Payam,Ngaluma PHCU,weACGEMugGT,Ngaluma PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Lirya Payam,Ngangalla PHCU,AfJsSuUf82X,Ngangalla PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj East County,Ananatak Payam,Ngapagok DTC PHCC,TtXEt2gkngj,Ngapagok DTC PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Loudo Payam,Ngatuba PHCU,E4cZHPJq3OM,Ngatuba PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Ngauro Payam,Ngauro PHCC,vknLbpsFuKA,Ngauro PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Rii - Yubu Payam,Ngboko PHCU,pgQndMGmvak,Ngboko PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Ngamunde Payam,Ngburusai PHCU,dBDmUd79aV4,Ngburusai PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Bagari Payam,Ngisa PHCU,L7nHmK8wOQ7,Ngisa PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Bagari Payam,Ngodakala PHCC,WcxqzTRJKYY,Ngodakala PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Equatoria State,Nagero County,Namutina Payam (Nagero),Ngogala PHCU,uGZAg0bfs05,Ngogala PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Bagari Payam,Ngoku PHCU,ebA88EfJdLz,Ngoku PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Besselia Payam,Ngolingbo PHCU,oj4daGXvNzC,Ngolingbo PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Equatoria State,Nagero County,Namutina Payam (Nagero),Ngonzorono PHCU,dG9VW0Zcq9Z,Ngonzorono PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Unity State,Mayom County,Ngop Payam,Ngop PHCU,wRYziNnXfIN,Ngop PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Rubkona County,Nhialdiu Payam,Nhialdiu PHCC,q93LRwf4ApN,Nhialdiu PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Unity State,Guit County,Niemni Payam,Niemni PHCC,qLowRGqGrbL,Niemni PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Khor El Amer Payam,Nilla PHCU,UlV8PXb7AqP,Nilla PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Lakamadi Payam,Kasiko PHCU,oCSJOabss5P,Kasiko PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Kediba Payam,Kediba PHCC,NsDebVnkSTF,Kediba PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Akobo County,Dengjok Payam,Nukta Thoklial PHCC,Dt97oqHZioJ,Nukta Thoklial PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Wulu County,Domoloto Payam,Nuktamanga PHCU,GlLhzZQCBpN,Nuktamanga PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Jonglei State,Fangak County,Mareang Payam,Nyadin PHCC,AwU5hPjjbg2,Nyadin PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Unity State,Panyijar County,Nyal Payam,Nyadong PHCU,AyXUZfRv3so,Nyadong PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Bangasu Payam,Nyaka PHCU,u3WyO39GK4o,Nyaka PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Munuki Payam,Nyakuron PHCC,pUykfjdr0Ac,Nyakuron PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Unity State,Panyijar County,Nyal Payam,Nyal PHCC,wQgd0NLtPJy,Nyal PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Gomjuer Center Payam,Nyamlel PHCC,o7Gkb1life2,Nyamlel PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek Centre County,Matangai Payam,Nyang Koot PHCU,NyLpqSCzTyJ,Nyang Koot PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Yirol East County,Lekakedu Payam,Nyang PHCC,Iuht1D8s7kr,Nyang PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Tindilo Payam,Nyanga PHCU,Lydtf0UZlME,Nyanga PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Naandi Payam,Nyasi PHCU,knBs0a5gNdS,Nyasi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Pibor Administrative Area,Pibor County,Marow Payam,Nyat PHCU,pOWugdk5WA9,Nyat PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Jonglei State,Ayod County,Kurwai Payam,Nyawit PHCU,qddFWAT2qvQ,Nyawit PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Lokiliri Payam,Nyerjebi PHCU,xAipUefLQZa,Nyerjebi PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Maiwut County,Kigile Payam,Nyetok PHCU,y20mrF2xeQv,Nyetok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Panyikang County,Tonga Payam,Nyibodo PHCU,ieBz4t3VHlq,Nyibodo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil South County,Nyieth Payam,Nyieth PHCU,Y9w98870Bn8,Nyieth PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Terekeka Payam,Nyikabur PHCU,hCTlZbuutU4,Nyikabur PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Manyo County,Athidwoi Payam,Nyiliech PHCU,gcdWkij6D2p,Nyiliech PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Wau Bai Payam,Nyinakok PHCU,Krixhp36YCK,Nyinakok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Ayat West Payam,Nyinbouli PHCC,WWFFw8OZbiR,Nyinbouli PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Pibor Administrative Area,Pochalla County,Adongo Payam,Nyium PHCU,FlHdv5w4SiO,Nyium PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Alek West Payam,Nyokthiang PHCU,smSejZf5UJY,Nyokthiang PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Nyong Payam,Nyong PHCC,mnWwp7zFWy4,Nyong PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Nyori Payam,Nyori PHCU,BVfTPXnID7z,Nyori PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Northern Bari Payam,Nyuwa PHCU,aOMj25ylBmD,Nyuwa PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Tambura Payam,Nzama PHCU,XLKGyZtHkbJ,Nzama PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Nzara Centre Payam,Nzara HOSPITAL,uidsoI5Nvy3,Nzara HOSPITAL,   County Hospital,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Nzara Centre Payam,Nzara PHCC,JLTodKJa1Si,Nzara PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mvolo County,Kokori Payam,Kombi PHCU,AieiBV0cOsk,Kombi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Pibor Administrative Area,Pochalla County,Pochalla Payam,Obuodi PHCU,HM2L4bWOwXj,Obuodi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Hiyala Payam,Offi PHCU,HoiCzLwRmfC,Offi PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri West County,Kotobi Payam,Kotobi PHCC,O1o6LKhy42i,Kotobi PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Kudo Payam,Ofiriha PHCU,KLHwALY9yCp,Ofiriha PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Manyo County,Athidwoi Payam,Ogon PHCU,nYJ2uVg2OrC,Ogon PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Hiyala Payam,Oguruny PHCU,Je8eezh1lbq,Oguruny PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Bur Payam,Ohila PHCU,xsArVF5uOJZ,Ohila PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Pibor Administrative Area,Pochalla County,Pochalla Payam,Ojangbai PHCU,R1dkQik8wJM,Ojangbai PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Pibor Administrative Area,Pochalla County,Akiela Payam,Okadi PHCU,vzj86WJa0Io,Okadi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Lomohidang South Payam,Okorohore PHCU,mK81VJYa4fu,Okorohore PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Imurok Payam,Olere PHCU,q9EsWTJ6a61,Olere PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Kozi Payam,Kozi PHCU,PfZOK4nMz2J,Kozi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Mambe Payam,Olo PHCC,An2lcxQw1q7,Olo PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Otogo Payam,Ombasi PHCC,JwuTZJuDgUH,Ombasi PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Baach Payam,Omdurman PHCC,NhWxARW0Oau,Omdurman PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Nzara Centre Payam,Kpasua PHCU,KWiuY9KroPN,Kpasua PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Witto Payam,Kporoloo PHCU,CLFUGuwY8aP,Kporoloo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Fashoda County,Lul Payam,Orinyi PHCC,dqK6furenke,Orinyi PHCC,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mvolo County,Kokori Payam,Kulu PHCU,B4hKc9kmCjW,Kulu PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Bur Payam,Oronyo PHCC,lhCCODDA7LQ,Oronyo PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Pibor Administrative Area,Pochalla County,Adongo Payam,Otallo PHCU,mc1vHeY1hM7,Otallo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Fashoda County,Kodok Payam,Otego PHCU,VTdMW0fpAhr,Otego PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Panyikang County,Dheteim Payam,Oweci PHCC,VlHTlgFViXR,Oweci PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Nagero County,Nagero Payam,Kuro PHCU,Bmi9OUuhUpF,Kuro PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Mayendit County,Pabuong Payam,Pabuong PHCU,BTHKBmUyPap,Pabuong PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Yirol West County,Geng-geng Payam,Pabur PHCU,BpZn0q2Vu4G,Pabur PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Panyijar County,Pachaar Payam,Pachak PHCU,pXqVSX9jThp,Pachak PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Panyijar County,Pachaar Payam,Pachar PHCU,lofNymInBIf,Pachar PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Pachidi Payam,Pachidi/Lwala PHCU,b5UM6UTrYDc,Pachidi/Lwala PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Panyijar County,Pachak Payam,Pacienjok PHCC,xQ1XxsDLwcY,Pacienjok PHCC,   PHCC,RED,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Pachong Payam,Pacong PHCC,TngmK03xodH,Pacong PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Ayod County,Wau Payam,Padek PHCC,SF1iZzZ7qSY,Padek PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Nyirol County,Pading Payam,Pading PHCU,e69RcQe5oYU,Pading PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Duk County,Pagak Payam,Pagaak PHCC,WiwhVgsqj3J,Pagaak PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Upper Nile State,Maiwut County,Pagak Payam (Maiwut),Pagak PHCC,xmJmoE4dnWk,Pagak PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj North County,Awuul Payam,Pagakdit PHCU,szgFQSlc7bN,Pagakdit PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Tali Payam,Pagara PHCU,FeskMCKwXRE,Pagara PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Yirol East County,Pagarau Payam,Pagarau PHCC,OknWQSewYCP,Pagarau PHCC,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Ayod County,Pagil Payam,Pagil PHCC,mSAZP91HScC,Pagil PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj North County,Pagol Payam,Pagol PHCU,Vtff47l1nks,Pagol PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Cueibet County,Pagor Payam,Pagor PHCU,EYexXzGX5ME,Pagor PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Fangak County,Paguer Payam,Paguir PHCU,mKCGy8C98V6,Paguir PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Ngamunde Payam,Kwanga PHCU,L7p27izHOBS,Kwanga PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Lakamadi Payam,Lakamadi PHCC,pfjiXMZJ9OP,Lakamadi PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Duk County,Panyang Payam,Pajut Kurgai PHCC,irkSUtUX8iG,Pajut Kurgai PHCC,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Fangak County,Phom Payam,Pakaan PHCC,GgYDV5fCCLz,Pakaan PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Panyikang County,Pakang Payam,Pakang PHCU,HEvWFjcVGIN,Pakang PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Riau Payam,Pakor PHCU,hqEaB6qcg4j,Pakor PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Yei Town Payam,Pakula PHCU,lggGHihWhLz,Pakula PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Panyikang County,Panyikang Payam,Pakwar PHCU,IVo4A2zThZy,Pakwar PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Bor South County,Makuach Payam,Palabach PHCU,BzSRYzMijb6,Palabach PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj East County,Palal Payam,Palal PHCU,rZKywCoHgAl,Palal PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj East County,Paliang Payam,Paliang PHCU,pdogG0c92U7,Paliang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Twic East County,Ajuong Payam,Palieu PHCC,wPjb9k2q7ce,Palieu PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Paloch Payam,Paloc PHCC,xTNTQhGKQSK,Paloc PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Melut County,Paloch Payam (Melut),Paloch PHCC,MA5EbT5GcAZ,Paloch PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mvolo County,Bahr El Grindi Payam,Lali PHCU,OQn3Qv3esmn,Lali PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Mambe Payam,Langua PHCU,KX2suz7SSIL,Langua PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Longochuk County,Pamach Payam,Pamac PHCU,VI9x549pcRd,Pamac PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Malual Centre Payam,Pamat PHCU,R9XHkEh6fev,Pamat PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Ruweng Administrative Area,Pariang County,Jamjang Payam,Pamiir PHCC,wpXiwPG9hqp,Pamiir PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Pannyok Payam,Pan-Nyok PHCC,wfF3S919gtL,Pan-Nyok PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial East County,Toch West Payam,Panacier PHCU,Tz7Sumyf2AN,Panacier PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj South County,Thiet Payam,Panakdit PHCU,QqHz9rA5ATb,Panakdit PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek East County,Pachong Payam,Panawac PHCU,XdqI21TijU2,Panawac PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Turalei Payam,Pandit PHCU,g5a2STFFTHa,Pandit PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Yirol West County,Gher Payam,Pandit PHCU,xvwUTq5YnkU,Pandit PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Yirol West County,Abang Payam,Pankar PHCU,vbJFIPIt7JC,Pankar PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj North County,Manloor Payam,Pankot PHCU,cTvRyidgzMz,Pankot PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Riau Payam,Panliet PHCU,addukZNoG2A,Panliet PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Melut County,Panomdit Payam,Panomdit PHCU,rg2yeyxbDRF,Panomdit PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil South County,Panthou Payam,Panthou DTC PHCC,XULLgqw57Nj,Panthou DTC PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Gomjuer West Payam,Pantit PHCU,TYkNJMWCNdz,Pantit PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Jonglei State,Twic East County,Kongor Payam,Panyagor County Hospital,bVvmI1lu9JF,Panyagor County Hospital,   County Hospital,Green,#REF!,#REF!
+South Sudan,Ruweng Administrative Area,Pariang County,Pariang Payam,Panyang PHCC,qsrvSTloN5S,Panyang PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Ruweng Administrative Area,Abiemnhom County,Abiemnom Payam,Panyang PHCU,zZvuNYtjDlC,Panyang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Morobo County,Panyume Payam,Panyume PHCU,V6zPJywJBCr,Panyume PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Jonglei State,Bor South County,Kolnyang Payam,Pariak PHCC,VxCdwwGXdI8,Pariak PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Melut County,Bimachuk Payam,Pariak PHCU,ZRZlKic6IjU,Pariak PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Ruweng Administrative Area,Pariang County,Pariang Payam,Pariang HOSPITAL,YRy4KvqAz5w,Pariang HOSPITAL,   County Hospital,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta North County,Paringa Payam,PARINGA PHCU,fE97HbakOEi,PARINGA PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ibba County,Ibba Centre Payam,Pastor Poul MC PHCU,HRCzZXjcSzt,Pastor Poul MC PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Jonglei State,Pigi County,Khorwac Payam,Patai PHCU,dkKaUTlbv2f,Patai PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Uror County,Motot Payam,Pathai PHCU,hGj7HPGthxf,Pathai PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Panyijar County,Kol Payam,Pathiel PHCU,YO8zZaj5Exc,Pathiel PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Lozoh Payam,Lanyi PHCC,P2sfwqKciKr,Lanyi PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Twic East County,Pakeer Payam,Patiou PHCC,xWJOQfOE2JE,Patiou PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Duk County,Ageer Payam,Patuenoi PHCU,zy2JXWRgzxb,Patuenoi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Duk County,Panyang Payam,Patuet PHCU,yBP79xC2upt,Patuet PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj South County,Wath-alel Payam,Pawel PHCU,VlNxj1Wik6s,Pawel PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj East County,Paweng Payam,Paweng PHCC,qVl0vZgpPq2,Paweng PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Uror County,Pathai Payam,Payai PHCU,fKcHMpJHmat,Payai PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Mugwo Payam,Payawa PHCU,qnUER7UwslE,Payawa PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Akon South Payam,Peeth PHCU,rJ5J7I2cXVz,Peeth PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Manyo County,Kitgwang Payam,Pen PHCU,We8eGXuISN7,Pen PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Tindilo Payam,Peri PHCU,Yma0DAfZosc,Peri PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Akon North Payam (Aweil E),Peth PHCU,CaytGdd0MtJ,Peth PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Pibor Administrative Area,Pibor County,Pibor Payam,Pibor PHCC,olSq3f1FuIV,Pibor PHCC,   County Hospital,Green,#REF!,#REF!
+South Sudan,Unity State,Leer County,Pilieny Payam,Pilieny PHCU,lIJwnQgqbg7,Pilieny PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial East County,Toch West Payam,Pinydit PHCU,pxdH2ujNJbh,Pinydit PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maiwut County,Pagak Payam (Maiwut),Pinythor PHCU,xwWCAXFtlVk,Pinythor PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Lotukei Payam,Piobokoi PHCU,KNI7sz29X43,Piobokoi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Rokon Payam,Pirisa PHCU,h2U74v0aAqC,Pirisa PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Lasu Payam,Pisak PHCU,DBH1VdXTzdU,Pisak PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Malakal County,Northern Malakal Payam,POC clininc IDPs PHCC,D5Dx95qSu7v,POC clininc IDPs PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Pibor Administrative Area,Pochalla County,Pochalla Payam,Pochalla PHCC,Eld91GNCApn,Pochalla PHCC,   County Hospital,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri West County,Bangolo Payam,Ledingwa PHCU,IRkTqmMKAjw,Ledingwa PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Nyirol County,Thol Payam,Pokbor PHCU,GC06O53ff4S,Pokbor PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Duk County,Ageer Payam,Poktap PHCC,Kytm6e0bufQ,Poktap PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Jinkuata Payam,Poumki PHCU,GKeN9k2vLFL,Poumki PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Mayom County,Pub Payam,Pub PHCU,KW3DjpltsIr,Pub PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Uror County,Wuror Payam,Pulchol PHCC,GdzmAPt4AIg,Pulchol PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Fangak County,Paguer Payam,Pulita PHCU,VLpL4GtI6hb,Pulita PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Nyirol County,Thol Payam,Pultruk PHCC,l6BLSZtpJQA,Pultruk PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Raga County,Raga Payam,Raja HOSPITAL,XSSl9KzeEQA,Raja HOSPITAL,   County Hospital,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Rejaf Payam,Rajaf East PHCC,OztCKjhtpbS,Rajaf East PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Maridi Payam,Ras-Tigi PHCU,PcIB2V3ghpm,Ras-Tigi PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Unity State,Rubkona County,Budaang Payam,Reang PHCC,naCfXwh4Piu,Reang PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Upper Nile State,Renk County,North Renk Payam,Renk HOSPITAL,ogYBD3SCt5Q,Renk HOSPITAL,   County Hospital,Green,#REF!,#REF!
+South Sudan,Unity State,Mayom County,Riah Payam,Riah PHCU,OZigDLH402p,Riah PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Mangar Tong Payam,Rial Diit PHCC,Qm9GElrxwFw,Rial Diit PHCC,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Akoka County,Rom Payam,Riang PHCU,R0N6o3nD1y9,Riang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Akoka County,Wunthow Payam,Riang PHCU,SWkJUemVmss,Riang PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Jonglei State,Nyirol County,Nyambor Payam,Riang PHCU,NlNy6WkCkvO,Riang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Mariem West Payam,Riangangon PHCU,eKrzHS4FcLm,Riangangon PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Baliet County,Nyongkuach Payam,Riangnum PHCU,kTpSlh806Xe,Riangnum PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Koch County,Jaak Payam,Rier PHCU,POlD8BIeWSU,Rier PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Besselia Payam,Rihan Fei PHCU,Ua4aGAA3fyL,Rihan Fei PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Rijong Payam,Rijong PHCC,G0vtSs4R8uu,Rijong PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Bangasu Payam,Rimeize PHCU,ZtSFfcvfsOD,Rimeize PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Ringasi Payam,Ringasi PHCC,JbuIhM7bvFU,Ringasi PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta North County,Najie Payam,Riwoto PHCC,Cx4FItlS5fY,Riwoto PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Rocrocdong Payam,RocRoc Dong PHCU,brILqFGZoDP,RocRoc Dong PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Morobo County,Gulumbi Payam,Rodoba PHCU,VJ5sKaOM7Ds,Rodoba PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Malual North Payam,Roingut PHCU,QfTnSoFrZoO,Roingut PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Rokon Payam,Rokon PHCC,XqHcke830dw,Rokon PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Akoka County,Rom Payam (Baliet),Rom PHCU,fxQ2Y1dkzaS,Rom PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Renk County,Geger Payam,Romale PHCU,sNsOjcBKjed,Romale PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Lainya County,Mukaya Payam,Roronyo PHCC,vnA1FRRD1sW,Roronyo PHCC,   PHCC,Orange,#REF!,#REF!
+South Sudan,Unity State,Mayom County,Ruathnyibuol Payam,Ruadhnyibol PHCU,pbbcS9tzr5f,Ruadhnyibol PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj North County,Rual-bet Payam,Rualbet PHCU,BIPdEQWSeKv,Rualbet PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Rubkona County,Rubkotne Payam,Rubkona Care PHCC,QlvQ2POshjh,Rubkona Care PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Unity State,Mayendit County,Dablual Payam,Rubkuay PHCC,aeIwADWEGbE,Rubkuay PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ibba County,Manikakara Payam,Rubu PHCU,hjwcN3VxQYN,Rubu PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Baach Payam,Rum Aker PHCU,lTQza3XMdJv,Rum Aker PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj East County,Paliang Payam,Rumabuth PHCC,YWBIeYJ1atN,Rumabuth PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek Centre County,Rumbek Town Payam,Rumbek State HOSPITAL,yybRADmUXTh,Rumbek State HOSPITAL,  State Hospital,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Madhol Payam,Rumrol PHCU,NE7rQMVONn6,Rumrol PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Malual Bai Payam,Rumwel PHCU,Wnvp8ouxvm5,Rumwel PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Mangar Tong Payam,Rumwet Kor PHCU,WJCqaRSu5UW,Rumwet Kor PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial East County,Toch East Payam,Ruot PHCU,GbwmpoBlWs2,Ruot PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Ulang County,Yomding Payam,Rup Board PHCC,xEG2PqoGWkW,Rup Board PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Yei Town Payam,Rwonyi PHCU,kMzl2pTCafe,Rwonyi PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Sakure Payam,Sakure PHCC,GR059OrPc4d,Sakure PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Sakure Payam,Sakure PHCU,p9i6yJnkVa1,Sakure PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Sangua Payam,Sangua One PHCU,Jh6a3M2aMzs,Sangua One PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Sangua Payam,Sangua Two PHCU,asyon5HaN8P,Sangua Two PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Kangapo One Payam,Saregoro PHCU,Z6g2W3RcVzN,Saregoro PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Yambio Town Payam,Saura one PHCU,BcVc8mdBEhP,Saura one PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Kangapo One Payam,Sera Jale PHCU,nKl639BKE9G,Sera Jale PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Rokon Payam,Sereng PHCU,DE55dId49oW,Sereng PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Lakes State,Yirol East County,Adior Payam,Shambe PHCU,uMGKZNwaWRu,Shambe PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Bunj Payam,Shatta PHCU,ysQut59Vxnq,Shatta PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Tambura Payam,Sinakpuro PHCU,kyfEbge1qyM,Sinakpuro PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Lozoh Payam,Singiriwo PHCU,o4EnmkQzFae,Singiriwo PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Dolo Payam,Sirimon PHCU,v3JKPG8trYN,Sirimon PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Kajo-Keji County,Liwolo Payam,Sokare PHCU,shq5zqnFyBy,Sokare PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Raga County,Uyujuku Payam,Sopo PHCU,d3sKmSPJFvl,Sopo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Rii - Yubu Payam,Source Yubu PHCC,IkWTV0S5nRN,Source Yubu PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Yei Town Payam,St Bakhita PHCC,FiCv14AWWKo,St Bakhita PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Lomohidang North Payam,St Theresa Isohe Mission HOSPITAL,u5ZuL45eQdM,St Theresa Isohe Mission HOSPITAL,   County Hospital,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Munuki Payam,St.Kizito PHCC,l960mY5guRT,St.Kizito PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Bangasu Payam,Sue PHCU,OZQLaYaqgq8,Sue PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Dolo Payam,Sure PHCU,SZ6Extp8z27,Sure PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Burgilo Payam,Taar PHCU,W2zQpYKOecc,Taar PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Tali Payam,Tali PHCC,tONQ4mMpO42,Tali PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Tambura Payam,Tambura County Hospital,iw5LCW5Oq5m,Tambura County Hospital,   County Hospital,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Tambura County,Tambura Payam,Tambura PHCC,XJDSlOAZ6fc,Tambura PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ibba County,Maruko Payam,Tanamuko PHCU,UyVbu42BdvV,Tanamuko PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Akobo County,Diror Payam,Tangnyang PHCU,CKrlfIRf7S0,Tangnyang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Terekeka Payam,Terekeka PHCC,OtBqwUzgXPz,Terekeka PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Unity State,Mayendit County,Rubkuay Payam,Thakker PHCU,xmH0obblqDl,Thakker PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Wau Bai Payam,Tharkueng PHCC,J1de0sxsq6z,Tharkueng PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj South County,Thiet Payam,Thiet PHCC,RLcNB5rF4hT,Thiet PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Akobo County,Dengjok Payam,Thokwath PHCU,PMWkm3Lp0tG,Thokwath PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Yirol East County,Pagarau Payam,Thonabutkok PHCU,oJQWk0p0fyP,Thonabutkok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Leer County,Yang Payam,Thonyor PHCC,t2IBP0paDla,Thonyor PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Manyo County,Kaka Payam,Thorgwang PHCU,BJkQ9ZT1YPj,Thorgwang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Bunj Payam,Thougji PHCU,nCAJrAZ7elU,Thougji PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial West County,Kuac South Payam,Thurnyior PHCU,klPqO70g4yp,Thurnyior PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Panyijar County,Tiap Payam,Tiap PHCU,NPPGLlq1fKK,Tiap PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Cueibet County,Pagor Payam,Tiap Tiap PHCU,jILKXi7hBpZ,Tiap Tiap PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil South County,Tiar-aleit Payam,Tiar-aleit PHCU,Yvmvtbfqc21,Tiar-aleit PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Yambio Town Payam,Tiindoka PHCU,chrGTahniqJ,Tiindoka PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Tijor Payam,Tijor Centre PHCC,NTThyJxVYrj,Tijor Centre PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Raga County,Ere Payam,Timsah PHCC,huzchVHtg6w,Timsah PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Hiyala Payam,Tirangore PHCU,sqRwc9Xtuay,Tirangore PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Kpaile Payam,Tirga PHCU,XNl5GBndAyy,Tirga PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Mangar Tong Payam,Tit Chok PHCC,WMmYu7OobSk,Tit Chok PHCC,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Wunrok Payam,Titchok PHCU,hqTxZt3tIky,Titchok PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Akoc Payam,Toch Noon PHCC,RCufUMCHolU,Toch Noon PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Rokon Payam,Toko-Ko-Tulu PHCU,auEikxAUt6W,Toko-Ko-Tulu PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Tombek Payam,Tombek PHCC,Pa9PESwxaIS,Tombek PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Bor South County,Baidit Payam,Tong PHCU,rYzlr4l5x7F,Tong PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj South County,Tonj Payam,Tonj HOSPITAL,OhN8r0I6FBh,Tonj HOSPITAL,   County Hospital,Green,#REF!,#REF!
+South Sudan,Lakes State,Wulu County,Wulu Payam,Tonjo PHCU,F0719xkigHT,Tonjo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Torit County,Nyong Payam,Torit State HOSPITAL,SC2ch4Wxfq3,Torit State HOSPITAL,  State Hospital,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Ikotos County,Ikotos Payam,Tseretenya PHCU,Sp21H8FAGzu,Tseretenya PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Muni Payam,Tukoro PHCU,tzQSfjPiJMu,Tukoro PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Budi County,Ngauro Payam,Tulugi PHCU,DnAzm6we1iK,Tulugi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Turalei Payam,Turalei PHCC,xpDp9OiWlDE,Turalei PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maiwut County,Jekow Payam,Turuw PHCU,yiyrucTrB1Z,Turuw PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Nyirol County,Thol Payam,Tut Majok PHCU,j4Jr13AaCwB,Tut Majok PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Unity State,Mayendit County,Tutnyang Payam,Tutnyang PHCU,eqqhja8aiJ7,Tutnyang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Mariem West Payam,Udhum DTC PHCC,aU4qZydKIBY,Udhum DTC PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Udici Payam,Udici PHCC,UTPeD2nj0PI,Udici PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Marguna Payam,Ukwanya PHCU,dJPEMzp2QT3,Ukwanya PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Ulang County,Ulang Payam,Ulang PHCC,JP83EwQqpnr,Ulang PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maiwut County,Olang Payam,Uleng PHCU,PlPti9pF5vs,Uleng PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Lafon/Lopa County,Pachidi Payam,Upuo PHCU,d1RWBUx3SbD,Upuo PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Juba Town Payam,Usratuna PHCC,lY6ijQFgr5X,Usratuna PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Pibor Administrative Area,Pibor County,Vertheth Payam,Vertheth PHCU,w6hOQJsjIt7,Vertheth PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Nyirol County,Waat Payam,Waat PHCC,Y60V7ZLdPZd,Waat PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Manyo County,Wadakona Payam,Wadakona PHCC,IV0Pej0l60h,Wadakona PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Wulu County,Domoloto Payam,Wako PHCU,Cy12agmhemg,Wako PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Northern Bari Payam,Walawalang PHCU,QfimAFWsaAp,Walawalang PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Jonglei State,Akobo County,Walgak Payam,Walgak PHCC,CCzq532FzNy,Walgak PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Melut County,Wunamum Payam,Wanamum PHCU,C1GKUSwzLtT,Wanamum PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Kediba Payam,Wandi PHCU,aJXbKzABBWw,Wandi PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Luakpiny/Nasir County,Kuerenge-ke Payam,Wanding PHCU,xqJ6BUuoICq,Wanding PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Jonglei State,Fangak County,Old Fangak Payam,Wangchoat PHCU,cSmZepURvTK,Wangchoat PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Unity State,Mayom County,Wangkei Payam,Wangkei PHCC,pRaIeHTEEJW,Wangkei PHCC,   PHCU,RED,#REF!,#REF!
+South Sudan,Jonglei State,Twic East County,Nyuak Payam,Wangulei PHCU,BR9HrEinhkO,Wangulei PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj South County,Wath-alel Payam,Wanh Alel PHCU,gSgrKIxskhE,Wanh Alel PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Terekeka County,Gameiza Payam,Wanyang PHCU,zFo1Uwwb6ts,Wanyang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Malakal County,Warajwok Payam,Warajwok PHCU,mHENqGwaGWi,Warajwok PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Malual East Payam,Warapei PHCC,oDstxaoYPb5,Warapei PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Baach Payam,Warawar PHCU,j0FRIjq3PQe,Warawar PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Malual West Payam (Aweil N),Warchuei PHCU,XdfSWQbR3Ya,Warchuei PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Malual East Payam,Wargeng PHCU,QfXNfh4xAkg,Wargeng PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Yargot Payam,Warlang PHCU,uplsgkEBafn,Warlang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj North County,Warrap Payam,Warrap  PHCC,SVYqkXq6CGj,Warrap  PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Jur River County,Kangi Payam,Warrieth PHCU,cq3LZsyloaW,Warrieth PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Longochuk County,Longochuk Payam,Warweng PHCU,dYOOZzns8px,Warweng PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Longochuk County,Guelguk Payam,Watber PHCC,jRgm2pE2sAq,Watber PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil South County,Wathmuok Payam,Wathmouk PHCU,W74zc6gw9kq,Wathmouk PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil North County,Malual East Payam,Wathok PHCU,Hn1taBQoAGV,Wathok PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Malakal County,Ogot Payam,Wau Shilluk PHCU,IHsj4wP9pAl,Wau Shilluk PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Wau North Payam,Wau Sika Hadid PHCC,NU5h0UydOYO,Wau Sika Hadid PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Bahr El Ghazal State,Wau County,Wau South Payam,Wau Teaching HOSPITAL,ZdlmjsxZMzR,Wau Teaching HOSPITAL, Teaching Hospital,Orange,#REF!,#REF!
+South Sudan,Jonglei State,Ayod County,Pagil Payam,Wechding PHCU,RbNefjY7CO8,Wechding PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Gomjuer East Payam,Wedweil PHCC,N2lW9JdSlMd,Wedweil PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Nyirol County,Pading Payam,Wenyal PHCU,yr8nLkZF13H,Wenyal PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Longochuk County,Dajo Payam,Wichlita PHCU,Qs240yF9Z8S,Wichlita PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mundri East County,Lozoh Payam,Wiroh PHCU,hG3jkaKr4Qi,Wiroh PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Maridi County,Kozi Payam,Woko PHCC,VR7Ips9sGs9,Woko PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Eastern Equatoria State,Kapoeta North County,Karukomuge Payam,Wokobu PHCU,la7BJl8faB0,Wokobu PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Central Equatoria State,Juba County,Wonduruba Payam,Wonduruba PHCC,Kodq1BjHROl,Wonduruba PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Mangar Tong Payam,Wonyjok PHCC,lF98KiI8hMB,Wonyjok PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Yirol West County,Mapuordit Payam,Wouwou PHCU,NFLWpUIkRuv,Wouwou PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Longochuk County,Wudier Payam,Wudier PHCU,lVlAK0jRQIL,Wudier PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Lainya County,Wuji Payam,Wuji PHCU,CL7iYl3LpsI,Wuji PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Wulu County,Wulu Payam,Wulu PHCC,kXKsbxxXkgm,Wulu PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Lakes State,Rumbek North County,Wun-rieng Payam,Wun-rieng PHCU,kWqygr0MVjm,Wun-rieng PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Upper Nile State,Baliet County,Abwong Payam,Wunbut PHCU,DXHjlSohTm3,Wunbut PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Abyei Administrative Area,Abyei County,Rumamer Payam,Wunchuei PHCU,bAS6c9LONYj,Wunchuei PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Warrap State,Tonj East County,Paliang Payam,Wuncuai PHCU,NxS5CPHZBFT,Wuncuai PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil South County,Gakrol Payam,Wuncum PHCU,DeMB1mWiKt2,Wuncum PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil West County,Ayat Center Payam,Wungiir PHCU,AKzIHfRAJd1,Wungiir PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maiwut County,Jotome Payam,Wunkir PHCU,PnPPbsMRxQ2,Wunkir PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Wunlang Payam,Wunlang PHCU,NUkMCVImLLm,Wunlang PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Tonj East County,Wun-liit Payam,Wunlit PHCU,qJGiZ9u7fkr,Wunlit PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Abyei Administrative Area,Abyei County,Mijak Payam,Wunpeth PHCU,tfDT2osuSPL,Wunpeth PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Warrap State,Twic County,Wunrok Payam,Wunrok PHCC,Qmdx9gmBVl3,Wunrok PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Nzara Centre Payam,Yabongo PHCU,EN3U6c5beKD,Yabongo PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Western Equatoria State,Nzara County,Nzara Centre Payam,Yabuwa PHCU,CTNx9a6PH9Y,Yabuwa PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Yambio Town Payam,Yambio PHCC,mfcgx67KOiG,Yambio PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Yambio County,Yambio Town Payam,Yambio State HOSPITAL,Kl8l29Akoma,Yambio State HOSPITAL,  State Hospital,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Yangiri Payam,Yangiri PHCC,C3962wRGOWj,Yangiri PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Ezo County,Yangiri Payam,Yangura PHCU,EghYlLEs94x,Yangura PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Northern Bahr El Ghazal State,Aweil East County,Yargot Payam,Yargot PHCU,uzeUTcdZBHZ,Yargot PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Yei County,Yei Town Payam,Yei Civil Hospital,gUA5oNiYY1P,Yei Civil Hospital,   County Hospital,Green,#REF!,#REF!
+South Sudan,Western Equatoria State,Mvolo County,Yeri Payam,Yeri PHCC,wFUxwMMGQKb,Yeri PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Ruweng Administrative Area,Pariang County,Werthen Payam,Yida Centre A PHCC,c2GUXeWVXcV,Yida Centre A PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Jonglei State,Akobo County,Barmach Payam,Yidit PHCU,MeNDM6EMzR1,Yidit PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Warrap State,Gogrial East County,Pathuon East Payam,Yiik Adoor PHCU,IHkvw27OAgp,Yiik Adoor PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Ulang County,Doma Payam,Ying PHCU,l8svCcsn6gy,Ying PHCU,   PHCU,Green,#REF!,#REF!
+South Sudan,Lakes State,Yirol West County,Abang Payam,Yirol County Hospital,VmPnvY9k6lB,Yirol County Hospital,   County Hospital,Green,#REF!,#REF!
+South Sudan,Unity State,Rubkona County,Rubkotne Payam,Yoanyang PHCU,Wj94IAAX37d,Yoanyang PHCU,   PHCU,RED,#REF!,#REF!
+South Sudan,Upper Nile State,Ulang County,Yomding Payam,Yomding PHCC,zzZPDtQYTnW,Yomding PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Central Equatoria State,Lainya County,Mukaya Payam,Yondoru PHCU,eWmgMGGpH2g,Yondoru PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Western Equatoria State,Ibba County,Madebe Payam,Yosia PHCU,l57VkwEzb5k,Yosia PHCU,   PHCU,Orange,#REF!,#REF!
+South Sudan,Jonglei State,Uror County,Payai Payam,Yuai PHCC,DmuRhK9sGTb,Yuai PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Jinkuata Payam,Yusuf Batil PHCC,FXqli6bmcXr,Yusuf Batil PHCC,   PHCC,Green,#REF!,#REF!
+South Sudan,Upper Nile State,Maban County,Jinkuata Payam,Yusuf Batil PHCU,aniRaOinHpr,Yusuf Batil PHCU,   PHCU,Green,#REF!,#REF!
